@@ -4,8 +4,8 @@ import csv
 # topright = [53.836971, -1.428635]
 # bottomleft = [53.766816, -1.649048]
 
-topright = [53.836971, -1.428635]
-bottomleft = [53.766816, -1.649048]
+topright = [53.838996, -1.472580]
+bottomleft = [53.756262, -1.620895]
 new_file_name = "leedsStops.csv"
 
 
