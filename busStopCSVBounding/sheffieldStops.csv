@@ -83,7 +83,6 @@ Parkway Avenue/Parkway Close,53.384365061,-1.432310329
 Manor Oaks Road/Eaton Place,53.379468648,-1.444296372
 Manor Oaks Road/Benson Road,53.378777352,-1.442546568
 Attercliffe Common/Carbrook Street,53.404929488,-1.417025113
-Attercliffe Common/Meadowhall Retail Park,53.405095413,-1.416030089
 Attercliffe Common/Amberley Street,53.400655864,-1.423610950
 Attercliffe Common/Terry Street,53.399984874,-1.424266732
 Attercliffe Common/Coleridge Road,53.398994216,-1.425738941
@@ -168,14 +167,10 @@ Prince of Wales Road/Fairleigh,53.363797984,-1.426482570
 Harborough Avenue/Prince of Wales Road,53.367489699,-1.418497956
 Prince of Wales Road/Harborough Avenue,53.368591077,-1.419474872
 Harborough Avenue/Prince of Wales Road,53.368548765,-1.420016487
-Harborough Avenue/Castlebeck Drive,53.365853243,-1.416551568
-Woodrove Avenue/Woodrove Close,53.365457324,-1.416466807
-Woodrove Avenue/Kilvington Road,53.363683207,-1.415784759
 Prince of Wales Road/Hastilar Road,53.365761491,-1.419858962
 Prince of Wales Road/Hastilar Road,53.365428346,-1.419743263
 Prince of Wales Road/Queen Mary Road,53.364699410,-1.421421219
 Prince of Wales Road/Queen Mary Road,53.364733137,-1.422818324
-Woodrove Avenue/Mosborough Road,53.362002277,-1.415777688
 Parkway Avenue/Kettlebridge Road,53.381990809,-1.428282818
 Parkway Avenue/Kettlebridge Road,53.381898048,-1.427682717
 Winter Street/Mushroom Lane,53.383614292,-1.488999125
@@ -203,9 +198,6 @@ Bramwell Street/Powell Street,53.385185646,-1.486514628
 Glossop Road/Clarkson Street,53.379667045,-1.488715636
 Glossop Road/Clarkson Street,53.379826644,-1.488202610
 Glossop Road/Gell Street,53.380045431,-1.482652850
-Sandygate Road/Selborne Road,53.379276371,-1.520213631
-Sandygate Road/Benty Lane,53.379500232,-1.520000659
-Manchester Road/Sandygate Road,53.379995795,-1.520295746
 Lydgate Lane/Headland Road,53.379997525,-1.516266922
 Lydgate Lane/Ryegate Crescent,53.380641823,-1.513343205
 Lydgate Lane/Crookes,53.380711576,-1.506246782
@@ -242,14 +234,73 @@ Penistone Road/Lowther Road,53.405711903,-1.496165219
 Penistone Road/Beulah Road,53.407926106,-1.496876163
 Penistone Road/Herries Road South,53.410690860,-1.498122269
 Penistone Road/Parkside Road,53.408054093,-1.497386108
+Penistone Road North/Herries Road,53.413835308,-1.499890647
+Herries Road/Penistone Road North,53.414624695,-1.499505264
+Penistone Road North/Leppings Lane,53.413953728,-1.500265379
+Herries Road/Penistone Road North,53.414590191,-1.499851706
 Middlewood Road/Dixon Road,53.407381856,-1.504298544
 Middlewood Road/Shepperson Road,53.409186676,-1.503841321
+Leppings Lane/Leake Road,53.414256935,-1.501841546
+Leppings Lane/Farndale Road,53.414230973,-1.502082568
+Leppings Lane/Eskdale Road,53.412931442,-1.503000407
+Leppings Lane/Vere Road,53.412300641,-1.502616606
 Middlewood Road/Rockley Road,53.411356328,-1.504658546
+Herries Road/Herries Road South,53.412909861,-1.495704090
+Herries Road/Herries Road South,53.412884039,-1.495975195
+Penistone Road/Herries Road South,53.411557577,-1.499029756
+Herries Road/Scraith Wood Drive,53.414191248,-1.488422240
+Herries Road/Galsworthy Road,53.413640888,-1.483764972
+Herries Road/Barrie Crescent,53.411884161,-1.478716364
+Penrith Road/Herries Road,53.413833471,-1.484650285
+Penrith Road/Penrith Crescent,53.411824908,-1.487878944
 Penrith Road/Penrith Crescent,53.410634661,-1.487005657
 Penrith Road/Teynham Road,53.410589278,-1.482733803
+Longley Avenue West/Teynham Road,53.412400325,-1.483734853
 Longley Avenue West/Penrith Road,53.411069910,-1.479568769
 Longley Avenue West/Parkwood Road North,53.411040783,-1.479072678
 Longley Avenue West/Crumpsall Road,53.410286157,-1.477111188
+Middlewood Road/Winn Gardens,53.418548753,-1.513783439
+Middlewood Road/Winn Gardens,53.417779177,-1.512423010
+Middlewood Road/Langsett Avenue,53.416659169,-1.511096740
+Middlewood Road/Langsett Avenue,53.415829667,-1.510474337
+Penistone Road North/Clay Wheels Lane,53.416734223,-1.500985091
+Penistone Road North/Carwell Lane,53.417386210,-1.499984423
+Penistone Road North/Wardsend Road North,53.418549316,-1.498691837
+Fox Hill Road/Halifax Road,53.419709044,-1.498738391
+Fox Hill Road/Trafalgar Road,53.419879125,-1.498570875
+Fox Hill Road/Baxter Drive,53.421371795,-1.498703798
+Fox Hill Road/Baxter Drive,53.421847853,-1.498622963
+Fox Hill Road/Parson Cross Road,53.423270319,-1.499163017
+Fox Hill Road/Birley Rise Road,53.423443994,-1.499853194
+Halifax Road/Fox Hill Road,53.419086271,-1.498128798
+Halifax Road/Southey Green Road,53.420615425,-1.494123296
+Halifax Road/Southey Green Road,53.420444076,-1.493989904
+Southey Green Road/Halifax Road,53.420402254,-1.492606066
+Halifax Road/Southey Green Road,53.421516085,-1.492427289
+Halifax Road/Carrville Drive,53.421939168,-1.492572730
+Halifax Road/Doe Royd Lane,53.423259342,-1.492301201
+Southey Green Road/Wordsworth Avenue,53.419831787,-1.489513188
+Southey Green Road/Wordsworth Avenue,53.419865231,-1.488925957
+Wordsworth Avenue/Wordsworth Crescent,53.422693877,-1.486183426
+Wordsworth Avenue/Wordsworth Crescent,53.421814589,-1.486555164
+Wordsworth Avenue/Southey Green Road,53.420000919,-1.487028411
+Wordsworth Avenue/Donovan Road,53.416186107,-1.488277947
+Wordsworth Avenue/Donovan Road,53.415996776,-1.488144808
+Donovan Road/Adkins Drive,53.416130251,-1.485735908
+Donovan Road/Pollard Crescent,53.416173897,-1.485434469
+Donovan Road/Donovan Close,53.415581943,-1.483651205
+Galsworthy Road/Barrie Crescent,53.415511993,-1.482027149
+Galsworthy Road/Moonshine Lane,53.417593788,-1.481204419
+Galsworthy Road/Moonshine Lane,53.417789436,-1.480720561
+Moonshine Lane/Southey Rise,53.415273270,-1.476749141
+Moonshine Lane/Southey Rise,53.415346493,-1.477049150
+Southey Green Road/Dryden Way,53.418720957,-1.484109734
+Southey Green Road/Dryden Way,53.418959969,-1.485340665
+Southey Hill/Southey Green Road,53.418831540,-1.480587499
+Southey Hill/North Hill Road,53.420933591,-1.480291042
+Moonshine Lane/Galsworthy Road,53.417643663,-1.480270951
+Moonshine Lane/Galsworthy Road,53.417813719,-1.480103370
+Adlington Road/Southey Hill,53.421985597,-1.480368506
 Ecclesall Road/Rustlings Road,53.366882094,-1.505069095
 Ecclesall Road/Rustlings Road,53.366712001,-1.505236376
 Ecclesall Road/Junction Road,53.367116728,-1.503127723
@@ -275,7 +326,6 @@ Psalter Lane/Stretton Road,53.364523099,-1.501955689
 Psalter Lane/Stretton Road,53.364103343,-1.502606754
 Psalter Lane/Roach Road,53.363633899,-1.504280227
 Psalter Lane/Cowlishaw Road,53.364961920,-1.497276999
-Greystones Road/High Storrs Road,53.364496552,-1.519613197
 Greystones Road/Greystones Drive,53.364375289,-1.516293514
 Greystones Road/Greystones Drive,53.364500151,-1.516051663
 Greystones Road/Greystones Grange Road,53.364184232,-1.513515628
@@ -292,19 +342,12 @@ Psalter Lane/Ecclesall Road,53.361228736,-1.507373482
 Psalter Lane/Brincliffe Gardens,53.363339530,-1.504824613
 Ecclesall Road/Carrington Road,53.365157730,-1.507598684
 Ecclesall Road/Carrington Road,53.365696592,-1.507487280
-Rustlings Road/Oakbrook Road,53.368552113,-1.517794197
-Rustlings Road/Oakbrook Road,53.368594079,-1.517057311
 Rustlings Road/Wragby Road,53.368466996,-1.514533909
 Rustlings Road/Wragby Road,53.368391177,-1.513572929
 Rustlings Road/Endcliffe Park,53.367926829,-1.512120441
 Rustlings Road/Peveril Road,53.367933114,-1.511459110
 Rustlings Road/Ecclesall Road,53.366775124,-1.507459819
 Rustlings Road/Ecclesall Road,53.366808596,-1.506858305
-Oakbrook Road/Westwood Road,53.368262343,-1.521734993
-Oakbrook Road/Westwood Road,53.368206607,-1.521284756
-High Storrs Road/Greystones Cliffe,53.364382965,-1.520425951
-High Storrs Road/Greystones Cliffe,53.362984588,-1.521388337
-High Storrs Road/Greystones Cliffe,53.362741844,-1.521376029
 Neepsend Lane/Hillfoot Road,53.395481734,-1.485368161
 Neepsend Lane/Parkwood Road,53.394752485,-1.483015976
 Neepsend Lane/Parkwood Road,53.394381625,-1.482479102
@@ -327,7 +370,6 @@ Upperthorpe Road/Addy Street,53.389995310,-1.486682324
 Upperthorpe Road/Albert Terrace Road,53.389856736,-1.485811882
 Neepsend Lane/Hillfoot Road,53.395437765,-1.485594266
 Neepsend Lane/Boyland Street,53.393772978,-1.478937576
-Manchester Road/Benty Lane,53.380451477,-1.521854061
 Dykes Hall Road/Findon Street,53.405450797,-1.506832965
 Holme Lane/Stannington Road,53.399950382,-1.511363380
 Loxley Road/Dykes Lane,53.400629414,-1.512558815
@@ -340,12 +382,6 @@ Rivelin Valley Road/Racker Way,53.397722223,-1.511614477
 Rivelin Valley Road/Watersmeet Road,53.399384123,-1.511369863
 Rivelin Valley Road/Watersmeet Road,53.399571584,-1.511051882
 Dykes Hall Road/Findon Street,53.405578370,-1.507252664
-Hallowmoor Road/Dial House Road,53.405214594,-1.519455721
-Hallowmoor Road/Dial House Road,53.405078561,-1.519156419
-Hallowmoor Road/Wisewood Avenue,53.403709260,-1.518404748
-Wisewood Avenue/Hallowmoor Road,53.403242054,-1.518455144
-Wisewood Road/Wisewood Avenue,53.402266635,-1.519534041
-Hallowmoor Road/Wisewood Road,53.402347728,-1.517352222
 Loxley Road/Wisewood Lane,53.401382034,-1.516385519
 Crookes Road/Spooner Road,53.377831450,-1.501018843
 Fulwood Road/Manchester Road,53.376834413,-1.503345381
@@ -374,6 +410,21 @@ Glossop Road/Ashdell Road,53.376604585,-1.499965927
 Glossop Road/Newbould Lane,53.376480682,-1.496149344
 Granville Road/Claywood Road,53.373780735,-1.452501991
 Park Grange Road/Norfolk Park Road,53.371297164,-1.459808262
+Nether Shire Lane/Pear Tree Road,53.431081894,-1.444361197
+Nether Shire Lane/Bellhouse Road,53.430933462,-1.441443263
+Bellhouse Road/Concord Road,53.430668724,-1.440573787
+Bellhouse Road/Nether Shire Lane,53.431386643,-1.440323547
+Mason Lathe Road/Sycamore House Road,53.432195521,-1.438386357
+Bellhouse Road/Oaks Fold,53.429557230,-1.441235541
+Bellhouse Road/Oaks Fold,53.429540238,-1.441446469
+Bellhouse Road/Gregg House Crescent,53.428320600,-1.442049398
+Bellhouse Road/Gregg House Crescent,53.428077501,-1.441962280
+Bellhouse Road/Gregg House Road,53.426911648,-1.442534371
+Bellhouse Road/Oaks Fold Avenue,53.426246529,-1.442543069
+Bellhouse Road/Shiregreen Lane,53.423669051,-1.443028219
+Bellhouse Road/Hatfield House Lane,53.423571094,-1.443225126
+Shiregreen Lane/Bellhouse Road,53.423639491,-1.442471818
+Hatfield House Lane/Bellhouse Road,53.424275598,-1.443953304
 Wensley Street/Wensley Close,53.409601538,-1.441045671
 Upwell Lane/Earl Marshal Road,53.405769812,-1.438583861
 Owler Lane/Upwell Lane,53.407275135,-1.439481645
@@ -391,9 +442,64 @@ Skelwith Road/Birdwell Road,53.408460508,-1.433524107
 Skelwith Road/Wincobank Lane,53.408427620,-1.434171390
 Beacon Way/Wincobank Lane,53.410451584,-1.432595047
 Beacon Way/Wincobank Lane,53.410521630,-1.432202979
+Beacon Way/Beacon Road,53.411554079,-1.430052982
+Beacon Way/Beacon Road,53.411823004,-1.429898947
 Wensley Street/Hinde House Crescent,53.409960641,-1.440950705
+Hinde House Lane/Hindewood Close,53.413386310,-1.443087283
 Hinde House Crescent/Wensley Street,53.410498390,-1.442538285
 Hinde House Crescent/Hinde House Croft,53.410680748,-1.443092520
+Firth Park Road/Vivian Road,53.412826781,-1.444538859
+Highgreave/Tunwell Avenue,53.432314808,-1.458388040
+Hatfield House Lane/Molineaux Road,53.424204170,-1.449883342
+Hatfield House Lane/Sicey Avenue,53.424130186,-1.449432843
+Sicey Avenue/Hatfield House Lane,53.424628523,-1.448342905
+Sicey Avenue/Hatfield House Lane,53.424701053,-1.448477404
+Sicey Avenue/Gregg House Road,53.427132379,-1.447482780
+Sicey Avenue/Gregg House Road,53.427195852,-1.447602354
+Gregg House Road/Champion Road,53.428613254,-1.450894998
+Gregg House Road/Champion Road,53.428648584,-1.450759092
+Gregg House Road/Hartley Brook Road,53.429761096,-1.452264853
+Hartley Brook Road/Gregg House Road,53.430263602,-1.452077789
+Hartley Brook Road/Nether Shire Lane,53.431472230,-1.451023729
+Hartley Brook Road/Nether Shire Lane,53.432071804,-1.450444058
+Nether Shire Lane/Hartley Brook Road,53.431575381,-1.449998926
+Nether Shire Lane/Ronksley Road,53.431039346,-1.446815050
+Hartley Brook Road/Gregg House Road,53.429773807,-1.453077415
+Hartley Brook Road/Barnsley Road,53.428442202,-1.456736596
+Highgreave/Tunwell Avenue,53.432242084,-1.458208348
+Barnsley Road/Deerlands Avenue,53.428635942,-1.457832780
+Deerlands Avenue/Barnsley Road,53.428063432,-1.458442056
+Lindsay Avenue/Swanbourne Road,53.427429569,-1.459398234
+Barnsley Road/Hartley Brook Road,53.427815701,-1.457331520
+Barnsley Road/Kinnaird Avenue,53.425115712,-1.456583350
+Barnsley Road/Kinnaird Avenue,53.425411840,-1.456474233
+Hucklow Road/Eyncourt Road,53.415726510,-1.449586472
+Hucklow Road/Eyncourt Road,53.416157177,-1.449415412
+Firth Park Road/Sicey Avenue,53.418391401,-1.448559012
+Stubbin Lane/Tideswell Road,53.419135014,-1.451934903
+Stubbin Lane/Tideswell Road,53.419307650,-1.452338947
+Stubbin Lane/Barnsley Road,53.419434750,-1.454579289
+Barnsley Road/Horninglow Road,53.418892921,-1.456000601
+Barnsley Road/Longley Lane,53.417529191,-1.456559658
+Longley Lane/Barnsley Road,53.418303401,-1.456820627
+Barnsley Road/Horninglow Road,53.415558395,-1.456058180
+Barnsley Road/Horninglow Road,53.415269131,-1.455700781
+Barnsley Road/Hereward Road,53.420256237,-1.455351230
+Barnsley Road/Hereward Road,53.420264196,-1.455125422
+Barnsley Road/Hatfield House Lane,53.422627042,-1.454869508
+Barnsley Road/Homestead Road,53.422971060,-1.455406840
+Elm Lane/Swanbourne Road,53.421967543,-1.456111851
+Hatfield House Lane/Etwell Way,53.422398011,-1.453924422
+Hatfield House Lane/Etwall Way,53.422307304,-1.453745010
+Sicey Avenue/Rolleston Road,53.422287375,-1.447455279
+Sicey Avenue/Rolleston Road,53.422054171,-1.447563635
+Sicey Avenue/Stubbin Lane,53.418666559,-1.447803126
+Sicey Avenue/Stubbin Lane,53.418846391,-1.447815844
+Bellhouse Road/Firth Park Road,53.418583510,-1.447337760
+Bellhouse Road/Firth Park Crescent,53.418726554,-1.447170394
+Firth Park Road/Hucklow Road,53.417873379,-1.447331917
+Firth Park Road/Firth Park Avenue,53.415949640,-1.445355785
+Firth Park Road/Firth Park Avenue,53.415419900,-1.445483037
 Carter Knowle Road/Bannerdale Road,53.352841269,-1.492116319
 Carter Knowle Road/Bannerdale Road,53.352618286,-1.492524595
 Carter Knowle Road/Archer Lane,53.352150127,-1.494468129
@@ -405,6 +511,16 @@ Carter Knowle Road/Carter Knowle Avenue,53.354014878,-1.504016188
 Carter Knowle Road/Carter Knowle Avenue,53.354025238,-1.504346590
 Union Road/Osborne Road,53.360271960,-1.493530610
 Osborne Road/Union Road,53.360763446,-1.492848610
+Bellhouse Road/Lowhouse Road,53.432390699,-1.439753462
+Bellhouse Road/Lowhouse Road,53.433036782,-1.439519195
+Ecclesfield Road/Lee Steel/Railway Footbridge,53.428364950,-1.422995550
+Ecclesfield Road/Fife Street,53.424055398,-1.418464095
+Ecclesfield Road/Butterthwaite Road,53.423911808,-1.418511199
+Standon Road/Standon Crescent,53.424149912,-1.428740926
+Standon Road/Standon Crescent,53.423827261,-1.427059832
+Standon Road/Standon Drive,53.423783650,-1.425465291
+Standon Road/Jedburgh Street,53.423610193,-1.423044852
+Standon Road/Woodgrove Road,53.423415698,-1.421858674
 Brightside Lane/Hawke Street,53.405723094,-1.426851730
 Brightside Lane/Hawke Street,53.405739483,-1.426520586
 Brightside Lane/Colliery Road,53.407953035,-1.423271675
@@ -416,8 +532,28 @@ Weedon Street/Brightside Lane,53.409666127,-1.422496345
 Meadowhall Road/Weedon Street,53.410205776,-1.422564257
 Meadowhall Road/Meadowhall Way,53.410924124,-1.420553704
 Meadowhall Road/Meadowhall Way,53.410929754,-1.419861611
+Meadowhall Road/Hayland Street,53.412761772,-1.417670288
+Meadowhall Road/Jenkin Road,53.412500971,-1.417643760
+Jenkin Road/Meadowhall Road,53.411776313,-1.420196112
+Jenkin Road/Holywell Road,53.411732614,-1.420452456
+Jenkin Avenue/Jenkin Drive,53.413064082,-1.428152233
 Holywell Road/Limpsfield Road,53.411277320,-1.422955938
 Holywell Road/Limpsfield Road,53.411168736,-1.422806967
+Newman Road/Newman Drive,53.418915946,-1.426328350
+Newman Road/Newman Drive,53.418737196,-1.426541407
+Newman Road/Barkby Road,53.419613189,-1.423655670
+Newman Road/Robin Hood Road,53.420343380,-1.422231368
+Merton Lane/Jardine Street,53.421190035,-1.420730199
+Merton Lane/Newman Road,53.420965406,-1.420748298
+Standon Road/Fife Street,53.423215276,-1.419453685
+Standon Road/Fife Street,53.423276437,-1.419091696
+Fife Street/Standon Road,53.423060139,-1.418974258
+Merton Lane/Fife Street,53.422707262,-1.418497531
+Barrow Road/Fife Street,53.422748246,-1.417684380
+Barrow Road/Newman Road,53.421558961,-1.417113767
+Barrow Road/Newman Road,53.420963546,-1.416670485
+Sandstone Road/Sandstone Close,53.414712068,-1.428792123
+Jenkin Avenue/Jenkin Road,53.415717656,-1.424806639
 Barnsley Road/Coningsby Road,53.406592964,-1.453269335
 Firth Park Road/Owler Lane,53.407510193,-1.451392299
 Page Hall Road/Rushby Street,53.408093607,-1.445367673
@@ -427,9 +563,14 @@ Firth Park Road/Selby Road,53.409079779,-1.448694432
 Firth Park Road/Owler Lane,53.408063863,-1.450602953
 Firth Park Road/Bolsover Road,53.409785673,-1.447782705
 Firth Park Road/Addison Road,53.411330238,-1.445521160
+Firth Park Road/Addison Road,53.411894464,-1.445077545
+Firth Park Road/Vivian Road,53.412828389,-1.444884861
 Barnsley Road/Horndean Road,53.409059603,-1.452124530
 Barnsley Road/Idsworth Road,53.410505795,-1.451910388
 Barnsley Road/Idsworth Road,53.410884814,-1.452236481
+Barnsley Road/Mortlake Road,53.412206758,-1.452369947
+Hucklow Road/Wheldrake Road,53.413642927,-1.451930254
+Hucklow Road/Wheldrake Road,53.413733222,-1.452019363
 Abbeydale Road/Lynmouth Road,53.352065453,-1.487258069
 Machon Bank Road/Moncrieffe Road,53.359988496,-1.488184773
 Moncrieffe Road/Sheldon Road,53.359876125,-1.487134314
@@ -456,10 +597,6 @@ Woodseats Road/Abbeydale Road,53.352086282,-1.485830630
 Chesterfield Road/Binfield Road,53.354866294,-1.480178201
 Chesterfield Road/Beeton Road,53.355684958,-1.478275180
 Chesterfield Road/Valley Road,53.358379630,-1.475778142
-Fulwood Road/Riverdale Road,53.371984763,-1.519769476
-Fulwood Road/Ranmoor Park Road,53.372022166,-1.520129777
-Fulwood Road/Tapton Park Road,53.373304668,-1.517184423
-Fulwood Road/Tapton Park Road,53.373214178,-1.517035141
 Fulwood Road/Endcliffe Vale Road,53.373601623,-1.515046721
 Fulwood Road/Endcliffe Vale Road,53.373820891,-1.513706501
 Fulwood Road/Shore Lane,53.374409474,-1.510362942
@@ -485,9 +622,6 @@ Montgomery Road/Kenbourne Road,53.363145386,-1.484435308
 Montgomery Road/Kenbourne Road,53.362787283,-1.484770219
 Moncrieffe Road/Montgomery Road,53.361202447,-1.486201795
 Abbeydale Road/Chippinghouse Road,53.362586289,-1.477815256
-Ben Lane/Rural Lane,53.408109833,-1.519678838
-Ben Lane/Hallowmoor Road,53.407956488,-1.519545180
-Ben Lane/Laird Avenue,53.407902940,-1.517409721
 Ben Lane/Laird Drive,53.407950540,-1.515844740
 Ben Lane/Collin Avenue,53.407758794,-1.512898558
 Ben Lane/Dykes Lane,53.407551451,-1.512750500
@@ -499,16 +633,78 @@ Dykes Hall Road/Dunella Road,53.408994993,-1.511861514
 Worrall Road/Wadsley Lane,53.410401275,-1.515064748
 Worrall Road/Laird Road,53.410438997,-1.515500583
 Wadsley Lane/Far Lane,53.410011977,-1.507788148
-Worrall Road/Vainor Road,53.411183884,-1.517432780
-High Storrs Road/High Storrs Drive,53.360856768,-1.522013211
-High Storrs Road/High Storrs Drive,53.360514551,-1.521851752
-High Storrs Road/Highcliffe Road,53.359217827,-1.521265238
-High Storrs Road/Huntley Grove,53.358823366,-1.521525088
-High Storrs Road/Huntley Road,53.357222604,-1.521332660
-High Storrs Road/Ringinglow Road,53.357088201,-1.521439338
-Ringinglow Road/High Storrs Road,53.356604638,-1.521895491
-Ringinglow Road/High Storrs Road,53.356570007,-1.522226420
-Ecclesall Road South/Harley Road,53.351946462,-1.519153312
+Middlewood Road/Marion Road,53.414392824,-1.508610205
+Middlewood Road/Marion Road,53.414150019,-1.508582912
+Wordsworth Avenue/Margetson Crescent,53.431137282,-1.476539371
+Deerlands Avenue/Wordsworth Avenue,53.428476365,-1.486836131
+Wordsworth Avenue/Doe Royd Lane,53.423988431,-1.486228019
+Wordsworth Avenue/Southey Hill,53.424301981,-1.485983464
+Wordsworth Avenue/Deerlands Avenue,53.426898069,-1.485606028
+Wordsworth Avenue/Deerlands Avenue,53.427042721,-1.485799925
+Deerlands Avenue/Wordsworth Avenue,53.428509990,-1.486293927
+Wordsworth Avenue/Milnrow Drive,53.430241881,-1.481456864
+Wordsworth Avenue/Margetson Crescent,53.430415825,-1.480115239
+Wordsworth Avenue/Margetson Crescent,53.431412682,-1.475798489
+Holgate Avenue/Holgate Crescent,53.429824359,-1.474358127
+Holgate Avenue/Holgate Crescent,53.429214886,-1.474756948
+Holgate Avenue/Margetson Road,53.428711145,-1.476719664
+Holgate Avenue/Margetson Road,53.428542149,-1.477128088
+Adlington Road/Deerlands Avenue,53.426923051,-1.478923779
+Adlington Road/Deerlands Avenue,53.426688834,-1.478806247
+Adlington Road/Buchanan Road,53.424839638,-1.479370606
+Adlington Road/Falstaff Road,53.424354212,-1.479361485
+Deerlands Avenue/Holgate Avenue,53.427101654,-1.472510511
+Deerlands Avenue/Adlington Road,53.427044972,-1.473925863
+Deerlands Avenue/Adlington Road,53.427294123,-1.479506177
+Deerlands Avenue/Buchanan Crescent,53.427440095,-1.480001032
+Deerlands Avenue/Buchanan Crescent,53.427795549,-1.483202290
+Deerlands Avenue/Deerlands Mount,53.429437559,-1.488796151
+Chaucer Road/Deerlands Avenue,53.429160176,-1.486993452
+Chaucer Road/Deerlands Avenue,53.429275600,-1.486660957
+Chaucer Road/Fulmere Road,53.430945520,-1.486204372
+Chaucer Road/Mansel Avenue,53.431647307,-1.486361475
+Deerlands Avenue/Buchanan Crescent,53.427798605,-1.483909591
+Chaucer Road/Yew Lane,53.433253597,-1.485740052
+Fox Hill Road/Fox Hill Crescent,53.424607621,-1.500832752
+Fox Hill Road/Camborne Close,53.425299459,-1.500764457
+Fox Hill Road/Browning Road,53.426724867,-1.499859854
+Fox Hill Road/Browning Road,53.427048315,-1.499825961
+Fox Hill Road/Fox Hill Crescent,53.428646130,-1.499310563
+Fox Hill Road/Edge Lane,53.430934200,-1.498350536
+Fox Hill Road/Edge Lane,53.431482099,-1.498253782
+Fox Hill Road/Cowper Avenue,53.432576569,-1.497744202
+Fox Hill Road/Cowper Avenue,53.432620750,-1.497563064
+Halifax Road/Cowper Avenue,53.430916169,-1.491954145
+Deerlands Avenue/Halifax Road,53.430355318,-1.491117994
+Deerlands Avenue/Deerlands Mount,53.429566224,-1.489456824
+Halifax Road/Deerlands Avenue,53.430106339,-1.491753089
+Chaucer Road/Chaucer Close,53.427734824,-1.489990447
+Wilcox Road/Halifax Road,53.427796399,-1.493902641
+Wilcox Road/Cowper Crescent,53.427913882,-1.494051744
+Wilcox Road/Fox Hill Road,53.428227372,-1.498051291
+Wilcox Road/Powley Road,53.427996211,-1.496518934
+Halifax Road/Wilcox Road,53.427000336,-1.492708135
+Halifax Road/Chaucer Road,53.426890817,-1.492318153
+Halifax Road/Lyminster Road,53.423981334,-1.492984829
+Fox Hill Crescent/Fox Hill Road,53.424808941,-1.501688169
+Fox Hill Crescent/Fox Hill Drive,53.426078782,-1.502275292
+Fox Hill Crescent/Fox Hill Drive,53.426196067,-1.502379267
+Fox Hill Crescent/Fox Hill Avenue,53.428219660,-1.502656644
+Fox Hill Crescent/Edge Well Crescent,53.429987823,-1.502033995
+Fox Hill Crescent/Edge Well Crescent,53.429771354,-1.501855919
+Fox Hill Crescent/Fox Hill Road,53.429431881,-1.500204353
+Fox Hill Crescent/Fox Hill Road,53.429203712,-1.499379265
+Dobcroft Road/Cortworth Road,53.347855336,-1.516615616
+Dobcroft Road/Cortworth Road,53.347132876,-1.513574461
+Dobcroft Road/Silverdale Road,53.346913789,-1.512750786
+Dobcroft Road/Whirlowdale Crescent,53.345130487,-1.509691885
+Dobcroft Road/Whirlowdale Crescent,53.344974909,-1.509017744
+Dobcroft Road/Whirlowdale Road,53.343596545,-1.506089639
+Abbeydale Road South/Sherwood Glen,53.333836025,-1.512959820
+Abbeydale Road South/Sherwood Glen,53.334326950,-1.512113290
+Abbeydale Road South/Abbey Lane,53.335462938,-1.510748786
+Abbeydale Road South/Abbey Lane,53.336653394,-1.509518743
+Abbeydale Road South/Abbey Lane,53.336902166,-1.508810058
 Walkley Lane/Bessingby Road,53.397758302,-1.500770858
 Walkley Lane/Bessingby Road,53.397938757,-1.500934178
 Ripley Street/Dodd Street,53.400691532,-1.499322768
@@ -528,14 +724,34 @@ Middlewood Road/Dykes Hall Road,53.403898483,-1.503150750
 Holme Lane/Walkley Lane,53.402210294,-1.501395605
 Holme Lane/Hillsborough Place,53.402169241,-1.502328607
 Dykes Hall Road/Middlewood Road,53.404135926,-1.504050468
-Ringinglow Road/Edale Road,53.357039260,-1.518209560
-Knowle Lane/Knowle Croft,53.354824011,-1.517212896
-Knowle Lane/Hoober Avenue,53.354628272,-1.517710897
-Hoober Avenue/Knowle Lane,53.354762161,-1.519707575
-Hoober Avenue/Knowle Lane,53.354996944,-1.519975370
-Ecclesall Road South/Hoober Road,53.352784273,-1.517386165
+Abbey Lane/Linden Avenue,53.337208551,-1.489703877
+Abbey Lane/Strelley Road,53.337144734,-1.489494389
+Abbey Lane/Roxton Road,53.338427782,-1.486850881
+Abbey Lane/Linden Avenue,53.338723104,-1.486546971
+Abbey Lane/Linden Avenue,53.338975936,-1.484726704
+Abbey Lane/Camping Lane,53.339119554,-1.484679918
+Abbey Lane/Mitchell Road,53.339181066,-1.482276213
+Meadowhead/Abbey Lane,53.338551365,-1.482163689
+Chesterfield Road/Bromwich Road,53.339398010,-1.480486374
+Chesterfield Road/Cobnar Road,53.339819021,-1.480150848
+Chesterfield Road/Cobnar Road,53.340057974,-1.479291870
+Chesterfield Road/Haughton Road,53.341627054,-1.478386621
+Chesterfield Road/Olivet Road,53.342245276,-1.477928493
+Meadowhead/Abbey Lane,53.337209243,-1.481519154
+Meadowhead/Cobnar Wood,53.335670811,-1.481207421
+Meadowhead/Cobnar Wood,53.335651203,-1.480832227
+Meadowhead/Roxton Avenue,53.334091981,-1.479875063
+Abbeydale Road South/Dobcroft Avenue,53.340645718,-1.503315161
+Abbeydale Road South/Dobcroft Avenue,53.340844148,-1.503478066
+Abbey Lane/Hutcliffe Wood Road,53.336015322,-1.492346158
+Abbey Lane/Bocking Lane,53.335888400,-1.492092369
+Bocking Lane/Abbey Lane,53.335235318,-1.492820946
+Hutcliffe Wood Road/Abbey Lane,53.336217083,-1.493289864
+Hutcliffe Wood Road/Dalewood Road,53.337172773,-1.493969362
+Hutcliffe Wood Road/Dalewood Road,53.337216887,-1.493773608
+Hutcliffe Wood Road/Dale View Road,53.339213402,-1.496137923
+Hutcliffe Wood Road/Folds Lane,53.340002977,-1.495798207
 Ecclesall Road South/Weetwood Drive,53.355792885,-1.512319043
-Ecclesall Road South/Cortworth Road,53.352551366,-1.517584096
 Ecclesall Road South/Dunkeld Road,53.356264965,-1.511261942
 Woodholm Road/Woodholm Place,53.353349249,-1.510438939
 Woodholm Road/Mylnhurst Road,53.353211096,-1.509629256
@@ -553,16 +769,58 @@ Ecclesall Road South/Millhouses Lane,53.354182217,-1.514110224
 Carter Knowle Road/Ecclesall Road South,53.356258561,-1.509699466
 Ecclesall Road South/Ringinglow Road,53.358047539,-1.509754070
 Ecclesall Road South/Brincliffe Edge Road,53.359434608,-1.508250623
-Ringinglow Road/Edale Road,53.357340432,-1.517109349
-Loxley Road/Wisewood Avenue,53.402425353,-1.521006249
-Loxley Road/Mill Dam,53.402608190,-1.521771278
+Abbeydale Road South/Springfield Road,53.345762136,-1.497307487
+Abbeydale Road South/Archer Road,53.345501981,-1.497430711
+Abbeydale Road South/Hartington Avenue,53.343394417,-1.500714818
+Archer Road/Abbeydale Road South,53.345532871,-1.496228689
+Archer Road/Old Station Drive,53.345405323,-1.495824633
+Archer Road/Hutcliffe Wood Road,53.344569440,-1.493716611
+Archer Road/Hutcliffe Wood Road,53.344986533,-1.492449946
+Abbeydale Road/Archer Road,53.346270038,-1.496250046
+Abbeydale Road/Hastings Road,53.347586113,-1.495002780
+Abbeydale Road/Marriott Road,53.348459775,-1.493295001
+Abbeydale Road/Holt House Grove,53.349119611,-1.492040354
+Springfield Road/Abbeydale Road South,53.346563169,-1.497553428
+Springfield Road/Hastings Road,53.348090580,-1.499533358
+Springfield Road/Hastings Road,53.348525540,-1.500369487
+Springfield Road/Stowe Avenue,53.349516828,-1.500973810
+Springfield Road/Stowe Avenue,53.349472388,-1.501094506
+Springfield Road/Springfield Avenue,53.350548387,-1.502614245
+Springfield Road/Springfield Avenue,53.350495521,-1.502870242
+Scarsdale Road/Woodseats Road,53.345910714,-1.479536037
+Bocking Lane/Greenhill Avenue,53.333456962,-1.488937739
+Chesterfield Road/Smithy Wood Crescent,53.350197298,-1.481361653
+Archer Road/Fraser Road,53.346374999,-1.489218962
+Archer Road/Fraser Road,53.346501220,-1.489307580
+Archer Road/Ulverston Road,53.347913645,-1.487488120
+Archer Road/Ulverston Road,53.348021892,-1.487576952
+Archer Road/Abbeydale Road,53.350352882,-1.488255068
+Archer Road/Abbeydale Road,53.349956754,-1.488109587
+Abbeydale Road/Troutbeck Road,53.350526940,-1.489019132
+Abbeydale Road/Bannerdale Road,53.350519301,-1.489334696
+Abbeydale Road/Archer Road,53.351277322,-1.487928524
+Woodseats Road/Athol Road,53.350859604,-1.484853890
+Woodseats Road/Athol Road,53.350759502,-1.484569667
+Woodseats Road/Todwick Road,53.348425047,-1.483095633
+Woodseats Road/Todwick Road,53.348198844,-1.482752869
+Woodseats Road/Firbeck Road,53.347217040,-1.482284064
+Woodseats Road/Chesterfield Road,53.345584385,-1.478909137
+Scarsdale Road/Chesterfield Road,53.346452836,-1.478117457
+Derbyshire Lane/Scarsdale Road,53.348180864,-1.476564152
+Norton Lees Lane/Derbyshire Lane,53.348439020,-1.475990164
+Norton Lees Lane/Derbyshire Lane,53.348583096,-1.476048486
+Derbyshire Lane/Norton Lees Lane,53.348098587,-1.476249705
+Chesterfield Road/The Dale,53.343280043,-1.478171199
+Chesterfield Road/Nettleham Road,53.344376678,-1.478172837
+Chesterfield Road/Woodseats Road,53.345304634,-1.478657195
+Chesterfield Road/Scarsdale Road,53.346573029,-1.478882067
+Chesterfield Road/Denton Road,53.347077486,-1.479131281
+Chesterfield Road/Tadcaster Road,53.348304668,-1.480212917
+Chesterfield Road/Smithy Wood Crescent,53.349231963,-1.480547150
+Chesterfield Road/Woodbank Crescent,53.351420746,-1.481587176
 Chesterfield Road/Woodbank Crescent,53.352392456,-1.481800739
 Penistone Road/Hobson Avenue,53.398986192,-1.489296348
 Penistone Road/Club Mill Road,53.396761731,-1.488300329
-Stannington Road/Stanwood Avenue,53.393779565,-1.521328837
-Stannington Road/Stanwood Avenue,53.394172214,-1.520617655
-Wood Lane/Stanwood Avenue,53.396687043,-1.522363981
-Stannington Road/Butler Road,53.395784490,-1.516975289
 Tinker Lane/Bole Hill Road,53.390021513,-1.512243887
 Bole Hill Road/Rangeley Road,53.391429226,-1.511385738
 Bole Hill Road/Rivelin Street,53.393660666,-1.507555663
@@ -572,10 +830,8 @@ Northfield Road/Eastfield Road,53.389532867,-1.504896758
 Bole Hill Road/Rivelin Street,53.393428149,-1.507844060
 Bole Hill Road/Rangeley Road,53.391196393,-1.511598918
 Bole Hill Road/Tinker Lane,53.390428499,-1.512855735
-Stannington Road/Barlow Road,53.395130900,-1.517614289
 Rivelin Valley Road/Opposite Walkley Bank Planta,53.396054157,-1.512550914
 Rivelin Valley Road/Rivelin Road,53.392564265,-1.516410236
-Rivelin Valley Road/Hollins Lane,53.391777008,-1.517336412
 Burgoyne Road/Burgoyne Close,53.393870679,-1.491177125
 Carr Road/South Road,53.393666964,-1.500412692
 Carr Road/South Road,53.393471045,-1.500851076
@@ -601,9 +857,118 @@ Bole Hill Road/Heavygate Avenue,53.393965001,-1.505070918
 Howard Road/Fulton Road,53.389383614,-1.497139824
 Heavygate Avenue/Heavygate Road,53.391814071,-1.504434227
 Burgoyne Road/Burgoyne Close,53.393907400,-1.491357140
+Cloonmore Drive/Henley Avenue,53.333529998,-1.458603453
+Primrose Avenue/Bellhouse Road,53.420876837,-1.443726774
+Primrose Avenue/Foxglove Road,53.419633673,-1.441215115
+Primrose Avenue/Acacia Road,53.419514927,-1.440810407
+Bracken Road/Wincobank Avenue,53.418080040,-1.439595423
+Wincobank Avenue/Bracken Road,53.417853502,-1.439207197
+Wincobank Avenue/Bluebell Road,53.417483761,-1.435134558
+Wincobank Avenue/Wincobank Road,53.417676872,-1.434153997
+Wincobank Avenue/Hyacinth Road,53.417513438,-1.431914291
+Newman Road/Maple Croft Road,53.417968990,-1.429425582
+Shiregreen Lane/Jacobs Drive,53.420698052,-1.436265665
+Shiregreen Lane/Leedham Road,53.420625082,-1.436040921
+Shiregreen Lane/Bellhouse Road,53.422543000,-1.440575071
+Bellhouse Road/Pavilion Way,53.421318654,-1.444021960
+Bellhouse Road/Primrose Avenue,53.421246119,-1.443887479
+Primrose Avenue/Bellhouse Road,53.420642025,-1.443489082
+Wincobank Avenue/Newman Road,53.417666307,-1.431927301
+Newman Road/Wincobank Avenue,53.417648578,-1.430091901
+Shiregreen Lane/Monckton Road,53.418260599,-1.434040927
+Shiregreen Lane/Monckton Road,53.418253036,-1.434341956
+Shiregreen Lane/Leedham Road,53.419815444,-1.435901160
+Shiregreen Lane/Jacobs Drive,53.422504863,-1.440109087
+Gleadless Road/Bartle Road,53.347648541,-1.432828015
+Gleadless Road/Bartle Road,53.347838149,-1.433005759
+Gleadless Road/Ashfield Close,53.349518997,-1.434891285
+Gleadless Road/Ashfield Close,53.350225545,-1.436038673
+Gleadless Road/Toll Bar Road,53.351307104,-1.438563260
 Leighton Road/Spotswood Mount,53.351584429,-1.444042979
+Leighton Road/Fleury Road,53.349917410,-1.443163319
+Leighton Road/Fleury Crescent,53.350006942,-1.443087041
+Leighton Road/Fleury Road,53.348908206,-1.440712861
+Leighton Road/Fleury Road,53.348664187,-1.440430638
+Leighton Road/Fleury Road,53.346934243,-1.437644300
+Leighton Road/Fleury Road,53.346795385,-1.436789917
+Leighton Road/Raeburn Road,53.345795892,-1.434519909
+Leighton Road/Raeburn Road,53.345586459,-1.433951888
+Raeburn Road/Leighton Road,53.345337280,-1.434480912
+Raeburn Road/Morland Road,53.345605898,-1.438067333
+Raeburn Road/Morland Road,53.345653948,-1.438727618
+Raeburn Road/Morland Road,53.344187707,-1.440414119
+Raeburn Road/Raeburn Place,53.343970793,-1.440161613
+Raeburn Road/Raeburn Place,53.342587523,-1.440374980
+Raeburn Road/Raeburn Close,53.342644970,-1.441125217
+Henley Avenue/The Meads,53.333363204,-1.461473714
+Warminster Road/Mount View Road,53.342161149,-1.467025309
+Warminster Road/Warminster Place,53.341979506,-1.466607026
+Derbyshire Lane/Cobnar Road,53.340135184,-1.470279613
+Hemsworth Road/Derbyshire Lane,53.340114807,-1.469739187
+Warminster Road/Hemsworth Road,53.340153321,-1.464271839
+Hemsworth Road/Warminster Road,53.339786756,-1.464711975
+Hemsworth Road/Bunting Nook,53.339841513,-1.462894019
+Blackstock Road/Gaunt Drive,53.342106302,-1.449002514
+Blackstock Road/Norton Avenue,53.339005299,-1.450979850
+Norton Avenue/Oaks Park View,53.337785229,-1.445664102
+Norton Avenue/Mawfa Road,53.337372873,-1.447847044
+Constable Road/Constable Drive,53.340393544,-1.447943215
+Constable Road/Blackstock Drive,53.340395071,-1.448273613
+Blackstock Road/Constable Road,53.340154135,-1.450604649
+Blackstock Road/Backmoor Road,53.339912834,-1.450908124
+Hemsworth Road/Backmoor Crescent,53.339715753,-1.458930655
+Hemsworth Road/Backmoor Crescent,53.339577455,-1.458166452
+Hemsworth Road/Ashbury Lane,53.339060171,-1.455109233
+Hemsworth Road/Ashbury Lane,53.338942638,-1.454960546
+Hemsworth Road/Norton Lane,53.338580484,-1.452427063
+Hemsworth Road/Norton Lane,53.338614852,-1.452081201
+Norton Lane/Hemsworth Road,53.338185001,-1.452432126
+Norton Lane/Maugerhay,53.335335683,-1.458370358
+Norton Lane/Cloonmore Drive,53.335139644,-1.458748268
+Cloonmore Drive/Norton Lane,53.334782223,-1.459218317
+Arnold Avenue/Charnock Wood Road,53.337851449,-1.421724412
+Arnold Avenue/Charnock Wood Road,53.336644933,-1.417610864
+Arnold Avenue/Stoneley Crescent,53.336907059,-1.419754835
+Charnock Dale Road/Charnock View,53.339238647,-1.420474131
+Charnock Hall Road/Charnock View Road,53.341755965,-1.424285000
+Charnock Hall Road/Oak Road,53.342097371,-1.424250365
+Charnock Dale Road/Charnock Hall Road,53.339443246,-1.423745425
+Charnock Dale Road/Charnock Hall Road,53.339526676,-1.424269955
+Norton Avenue/Lightwood Lane,53.338604065,-1.441989013
+Norton Avenue/Lightwood Lane,53.338110554,-1.442175670
+Norton Avenue/Raeburn Road,53.339601111,-1.439918442
+Norton Avenue/Bowman Drive,53.341303095,-1.436757119
+Norton Avenue/Bowman Drive,53.341843661,-1.433220419
+Norton Avenue/Bowman Drive,53.342018925,-1.434164327
+Norton Avenue/Bowman Drive,53.341572741,-1.436753567
+Norton Avenue/Raeburn Road,53.339889509,-1.440079872
+Constable Road/Raeburn Road,53.341394832,-1.442898816
+Constable Road/Constable Close,53.341007396,-1.444631070
+Constable Road/Landseer Drive,53.340632614,-1.445221680
+Thorpe House Road/Hollythorpe Rise,53.350115816,-1.466941167
+Thorpe House Avenue/Lees Hall Road,53.349136487,-1.465030558
+Hollythorpe Rise/Thorpe House Road,53.349586113,-1.467082971
 Upper Albert Road/Hollythorpe Rise,53.351898571,-1.467609995
+Upper Albert Road/Bishopscourt Road,53.351400782,-1.468863089
+Derbyshire Lane/Abbey View Drive,53.346215814,-1.473268568
+Derbyshire Lane/Norton Lees Crescent,53.345997046,-1.472580300
+Norton Lees Lane/Angerford Avenue,53.350027630,-1.473401873
+Norton Lees Lane/Norton Lees Road,53.350749642,-1.472025924
+Norton Lees Lane/Warminster Road,53.350765891,-1.471635135
 Norton Lees Road/Cliffe Field Road,53.351538386,-1.475591625
+Norton Lees Road/Cliffe Field Road,53.351416321,-1.474406319
+Norton Lees Road/Beverleys Road,53.351105822,-1.473298456
+Norton Lees Road/Norton Lees Lane,53.351171093,-1.471795377
+Warminster Road/Norton Lees Lane,53.350466618,-1.471037934
+Warminster Road/Warminster Close,53.349534899,-1.469712489
+Warminster Road/Warminster Close,53.349445483,-1.469818753
+Warminster Road/Thorpe House Avenue,53.348605103,-1.468822711
+Warminster Road/Ketton Avenue,53.345908094,-1.468736049
+Warminster Road/Ketton Avenue,53.346214162,-1.468837393
+Lees Hall Road/Woodland Road,53.346590053,-1.464446552
+Lees Hall Road/Harvey Clough Road,53.346086644,-1.464437837
+Derbyshire Lane/Harvey Clough Road,53.343689209,-1.471061694
+Derbyshire Lane/Mount View Avenue,53.343888214,-1.471344616
 Gleadless Road/Carrfield Lane,53.359195622,-1.463191734
 Gleadless Road/Northcote Road,53.359212517,-1.462951113
 Richards Road/Richards Court,53.360138152,-1.464907874
@@ -627,6 +992,15 @@ Eastern Avenue/Northern Avenue,53.361341314,-1.439152700
 Park Grange Road/St Aidans Road,53.365776370,-1.443768162
 Park Grange Road/St Aidans Road,53.366500139,-1.440918418
 St Aidans Road/St Aidans Drive,53.368134586,-1.442520132
+Blackstock Road/Overend Road,53.350334128,-1.449677641
+Blackstock Road/Spotswood Road,53.350701399,-1.449402507
+Blackstock Road/Overend Road,53.348797212,-1.449712447
+Blackstock Road/Gaunt Road,53.348730831,-1.448962206
+Blackstock Road/Ironside Road,53.346919913,-1.446116484
+Blackstock Road/Ironside Road,53.346818951,-1.445667155
+Blackstock Road/Gaunt Drive,53.342634042,-1.448439983
+Blackstock Road/Gaunt Close,53.343749161,-1.446608161
+Blackstock Road/Gaunt Close,53.344618232,-1.445996095
 Leighton Road/Spotswood Mount,53.351971761,-1.444218218
 Leighton Road/Gleadless Road,53.352628459,-1.444329866
 Leighton Road/Spotswood Road,53.352899992,-1.444731968
@@ -657,10 +1031,10 @@ Mansfield Road/Newlands Drive,53.358949682,-1.422055009
 Woodhouse Road/Mansfield Road,53.359183915,-1.420308872
 Mansfield Road/Woodhouse Road,53.358525736,-1.419897089
 Mansfield Road/Sharrard Road,53.357415279,-1.417057416
-Mansfield Road/Mansfield Drive,53.357258003,-1.416143041
 Gleadless Common/Durlstone Crescent,53.352975940,-1.430323539
 Gleadless Common/Chatsworth Park Road,53.352397613,-1.429685249
 Hollinsend Road/Ridgehill Avenue,53.352157589,-1.419052080
+Jaunty Lane/Hollinsend Road,53.351130451,-1.418555265
 Gleadless Road/Newfield Green,53.354489987,-1.448392175
 Gleadless Road/Buck Wood View,53.354995338,-1.448821352
 Blackstock Road/Plowright Close,53.354883687,-1.449949597
@@ -684,7 +1058,30 @@ Callow Road/Callow Mount,53.355321243,-1.453234269
 Callow Road/Callow Drive,53.355128980,-1.452470497
 Gleadless Road/Newfield Gardens,53.356477021,-1.450454953
 Gleadless Road/Daresbury Road,53.356505921,-1.450875271
+Norton Avenue/Leighton Road,53.342996396,-1.429900762
+Norton Avenue/Leighton Road,53.342779675,-1.429693374
+Gleadless Road/Ridgeway Road,53.345894838,-1.426993121
+Lister Avenue/Lister Drive,53.344427527,-1.417264540
+Lister Avenue/Lister Drive,53.345023530,-1.417827201
+Jaunty Avenue/Lister Avenue,53.346640743,-1.417669989
+Jaunty Lane/Seagrave Crescent,53.349181170,-1.416974414
+Seagrave Crescent/Lister Avenue,53.348279810,-1.420156299
+Seagrave Crescent/Seagrave Avenue,53.348047722,-1.420489923
+Seagrave Crescent/Seagrave Drive,53.346570009,-1.423469121
+Seagrave Crescent/Seagrave Drive,53.346409744,-1.423786726
+Gleadless Road/Seagrave Crescent,53.345330642,-1.425558693
+Gleadless Road/White Lane,53.344565056,-1.425238528
+White Lane/Charnock Hall Road,53.343825856,-1.422935354
+Ridgeway Road/Gleadless Road,53.345110991,-1.426613089
+Ridgeway Road/Gleadless Road,53.346312377,-1.425966093
+Ridgeway Road/Kirkby Road,53.349406793,-1.424572549
+Ridgeway Road/Kirkby Avenue,53.348632434,-1.424297556
+Ridgeway Road/Hollinsend Road,53.351337079,-1.424095881
 Ridgeway Road/Hollinsend Road,53.352257855,-1.424909750
+Hollinsend Road/Ridgeway Road,53.350530750,-1.424647556
+Hollinsend Road/Ridgeway Road,53.350479497,-1.425204079
+Gleadless Common/Hollinsend Road,53.350393253,-1.427834177
+Gleadless Common/Gleadless Avenue,53.350862438,-1.428203463
 Moore Street/Fitzwilliam Street,53.374998312,-1.477498184
 Fitzwilliam Gate/Bishop Street,53.375421645,-1.475644159
 Fitzwilliam Gate/Bishop Street,53.375285237,-1.475285085
@@ -811,6 +1208,7 @@ Talbot Street/Talbot Crescent,53.378212152,-1.458412993
 Granville Road/Farm Bank Road,53.373930704,-1.457790897
 Granville Road/Farm Bank Road,53.373979921,-1.456753148
 Granville Road/Norfolk Park Road,53.373642741,-1.451812349
+Abbeydale Road South/Pingle Road,53.342472135,-1.501566687
 Duke Street/Talbot Place,53.378465179,-1.454756921
 Duke Street/Coates Street,53.377858782,-1.453847702
 Eyre Street/Cumberland Street,53.374216558,-1.473464449
@@ -887,14 +1285,62 @@ Shirecliffe Road/Longley Avenue West,53.409528165,-1.472351754
 Longley Avenue West/Shirecliffe Road,53.409232751,-1.472626186
 Shirecliffe Road/Boynton Road,53.410327912,-1.472296731
 Shirecliffe Road/Boynton Road,53.411020996,-1.472513815
+Shirecliffe Road/Herries Road,53.412291114,-1.473129967
+Herries Road/Herries Drive,53.413282755,-1.471748658
+Herries Road/Shirecliffe Road,53.413026285,-1.472699639
+Herries Road/Boynton Road,53.413007251,-1.470428152
+Herries Road/Boynton Road,53.412596040,-1.468913775
+Herries Drive/Herries Avenue,53.413651061,-1.469667920
+Herries Drive/Piper Road,53.414468458,-1.465505325
+Herries Road/Longley Lane,53.411977328,-1.465220614
+Longley Lane/Herries Road,53.411919963,-1.464454082
+Longley Lane/Longley Hall Road,53.412501021,-1.463739702
+Longley Hall Road/Longley Lane,53.412879193,-1.461884475
 Herries Road/Fairbank Road,53.410619932,-1.463191690
 Norwood Road/Herries Road,53.408690243,-1.461832016
 Norwood Road/Herries Road,53.408475273,-1.462000200
 Norwood Road/Norwood Drive,53.406533426,-1.461934434
 Norwood Road/Norwood Drive,53.406101318,-1.461789463
+Herries Drive/Herries Avenue,53.414022680,-1.468339350
+Herries Drive/Longley Lane,53.415170965,-1.461810424
+Herries Drive/Crowder Road,53.415235236,-1.462110520
+Crowder Road/Herries Drive,53.415673758,-1.461683716
+Crowder Road/Longley Crescent,53.416977183,-1.463698464
+Crowder Road/Longley Crescent,53.417106323,-1.464434093
+Crowder Road/Southey Avenue,53.417907104,-1.466620790
+Crowder Road/Herries Avenue,53.418351147,-1.467427742
+Crowder Road/Crowder Crescent,53.419973501,-1.468415629
+Crowder Road/Southey Hall Road,53.420325243,-1.468682092
+Southey Green Road/Crowder Road,53.421335324,-1.469436926
+Southey Green Road/Collinson Road,53.420803772,-1.471189024
+Southey Green Road/Crowder Avenue,53.420174320,-1.473167994
+Southey Green Road/Crowder Avenue,53.419498639,-1.474861585
+Lindsay Avenue/Buchanan Road,53.421948279,-1.467804150
+Lindsay Avenue/Lindsay Road,53.423000218,-1.465849821
+Elm Lane/Lindsay Avenue,53.421334203,-1.467164773
+Elm Lane/Emerson Drive,53.420854038,-1.464311787
+Elm Lane/Emerson Drive,53.420959264,-1.463723619
+Elm Lane/Crest Road,53.421455802,-1.460211303
+Elm Lane/Crest Road,53.421555555,-1.460405658
+Wordsworth Avenue/Wheata Place,53.433123035,-1.470253507
 Shirecliffe Road/Standish Drive,53.405887294,-1.472246363
 Shirecliffe Road/Standish Drive,53.406524457,-1.472012848
 Shirecliffe Road/Musgrave Road,53.408682281,-1.472136572
+Colley Crescent/Rokeby Drive,53.431446026,-1.465066691
+Colley Crescent/Rokeby Drive,53.432162986,-1.464591103
+Lindsay Avenue/Emerson Close,53.424179106,-1.464149623
+Lindsay Avenue/Emerson Close,53.424650479,-1.463030099
+Deerlands Avenue/Ingelow Avenue,53.427383341,-1.463101024
+Deerlands Avenue/Lindsay Road,53.427362386,-1.464440702
+Deerlands Avenue/Lindsay Road,53.427152330,-1.465707501
+Deerlands Avenue/Holgate Crescent,53.427126984,-1.468085641
+Deerlands Avenue/Holgate Crescent,53.427012013,-1.468508461
+Wordsworth Avenue/Turie Crescent,53.432137530,-1.473020140
+Wordsworth Avenue/Remington Road,53.432387737,-1.472685916
+Colley Road/Turie Avenue,53.429861409,-1.472566664
+Colley Road/Colley Close,53.430007822,-1.471120001
+Colley Road/Colley Crescent,53.430060266,-1.466739642
+Colley Crescent/Colley Road,53.430399597,-1.466238724
 Cemetery Road/Washington Road,53.369873294,-1.483362184
 Boston Street/London Road,53.371826061,-1.477672256
 Boston Street/London Road,53.371933657,-1.477610821
@@ -943,25 +1389,44 @@ Whitehouse Lane/Exley Avenue,53.394606367,-1.490852556
 Sherde Road/Daniel Hill Street,53.392030028,-1.489544983
 Penistone Road/Bamforth Street,53.396502618,-1.488664364
 Penistone Road/Livesey Street,53.403065893,-1.493248427
+Longley Hall Road/Longley Hall Way,53.413271501,-1.459186538
+Longley Hall Road/Longley Hall Grove,53.413147029,-1.459489008
+Longley Hall Road/Longley Hall Way,53.413802809,-1.457419558
+Longley Hall Road/Longley Hall Rise,53.415119581,-1.458395795
+Longley Hall Road/Longley Hall Rise,53.415274901,-1.458950500
+Wordsworth Avenue/Herries Road,53.414974764,-1.488773927
 Barnsley Road/Horndean Road,53.408501304,-1.451906056
 Whitham Road/Northumberland Road,53.380343596,-1.495622713
 Whitham Road/Northumberland Road,53.380208772,-1.495624306
+Warminster Road/Harvey Clough Road,53.344099783,-1.468383010
+Warminster Road/Mount View Avenue,53.344334882,-1.468695514
+Abbey Brook Drive/Abbey Brook Close,53.334412864,-1.485472445
 Maltravers Road/Whites Lane,53.383352235,-1.448274965
 Western Bank/Damer Street,53.380952171,-1.490759800
 London Road/Alderson Road,53.368881712,-1.476520966
 Charlotte Road/Shoreham Street,53.371145847,-1.468151700
 Barnsley Road/Norwood Road,53.403199805,-1.460201627
 Whitham Road/Moor Oaks Road,53.379371607,-1.497468176
+Margetson Crescent/Knutton Road,53.431456156,-1.479575764
+Springfield Road/Button Hill,53.351122114,-1.506573563
 Granville Road/Holdings Road,53.373414606,-1.447170827
+Crowder Road/Everingham Road,53.415837171,-1.462042746
 Rushdale Road/Kent Road,53.355528479,-1.467264298
-Staniforth Road/Acres Hill Road,53.386847153,-1.415783564
+Blackstock Road/Gaunt Way,53.344769498,-1.445663684
+Lindsay Avenue/Ingelow Avenue,53.425470411,-1.461469732
 Commercial Street/CG2,53.382963275,-1.463524408
 Shirecliffe Road/Standish Avenue,53.403827741,-1.471986054
+Herries Road/Norwood Avenue,53.411924745,-1.465522156
+Southey Green Road/Southey Green Close,53.418405234,-1.479704952
+Wordsworth Avenue/Cookson Road,53.414814457,-1.489121887
 Arbourthorne Road/Paddock Crescent,53.356031622,-1.439718184
 Arbourthorne Road/Paddock Crescent,53.356213218,-1.440106441
 Norfolk Park Road/Park Grange Road,53.371262910,-1.460184440
+Gleadless Road/Ridgeway Road,53.345869891,-1.427414041
 Nottingham Street/Pitsmoor Road,53.396938810,-1.467123502
 Penistone Road/Bradfield Road,53.403032682,-1.493895584
+Sandstone Road/Jenkin Road,53.415749142,-1.427619728
+Sandstone Road/Jenkin Road,53.415794731,-1.427754526
 Carrfield Road/Albert Road,53.356837722,-1.464558551
 Valley Road/Cross Park Road,53.356426400,-1.473127721
 Commonside/Sydney Road,53.387244669,-1.497225158
@@ -970,8 +1435,10 @@ Beech Hill Road/Glossop Road,53.377567716,-1.493881718
 Firshill Crescent/Firshill Croft,53.402658369,-1.467743957
 Hurlfield Road/Hurlfield Crescent,53.358797053,-1.429569801
 Hurlfield Road/Elm Tree Hill,53.358736646,-1.430096498
+Gleadless Road/Littlewood Road,53.346694200,-1.430617538
 Gell Street/Glossop Road,53.380594689,-1.482871692
 Glossop Road/Regent Terrace,53.380121502,-1.481539492
+Lindsay Avenue/Swanbourne Road,53.427231558,-1.459340547
 Woodholm Road/Ecclesall Road South,53.354149375,-1.512668316
 Woodholm Road/Millhouses Lane,53.354066272,-1.512128409
 Beaumont Road North/Beaumont Close,53.374076083,-1.421715074
@@ -986,11 +1453,13 @@ Granville Road/Farm Bank Road,53.374097740,-1.458946149
 Cricket Inn Road/Bernard Road,53.384376969,-1.452185714
 Cricket Inn Road/Bernard Road,53.384586814,-1.454829096
 Shoreham Street/Alderson Road,53.366325122,-1.469549208
+Meadowhead/Roxton Avenue,53.333665472,-1.478949221
 Northern Avenue/East Bank Road,53.358933413,-1.437471394
 Northern Avenue/Cawdor Road,53.360347741,-1.438128946
 Arundel Gate/AG1,53.382543628,-1.466160593
 Abney Road/Abney Close,53.356798228,-1.457797918
 Woodburn Road/Staniforth Road,53.390556319,-1.433791806
+Norton Lane/Hemsworth Road,53.338129074,-1.451997315
 Carlisle Street/Atlas Street,53.395212124,-1.449099152
 Abbeydale Road/Farrar Road,53.364597841,-1.475326170
 Abbeydale Road/Wolseley Road,53.364186428,-1.475797069
@@ -1003,16 +1472,19 @@ Penistone Road/West Don Street,53.393436744,-1.484310109
 Penistone Road/West Don Street,53.393452122,-1.483708419
 Penistone Road/Rutland Road,53.391026849,-1.479948487
 Penistone Road/Bedford Street,53.391002566,-1.480565290
+Dobcroft Road/Whirlowdale Road,53.344113843,-1.507285283
 Broadfield Road/Bedale Road,53.359002934,-1.478535187
-Hollinsend Road/Frith Road,53.352882532,-1.416563369
+Southey Green Road/Southey Green Close,53.418557640,-1.479612814
 Loxley New Road/Holme Lane,53.400577815,-1.508739216
 Nursery Street/Spitalfields,53.388624141,-1.467091969
 Talbot Road/Duke Street,53.378710329,-1.455294959
 Middlewood Road/Taplin Road,53.403104266,-1.502377866
 Penistone Road/St. Phillips Road,53.389836279,-1.479015701
 Hurlfield Road/Gleadless Common,53.356766415,-1.433518361
+Warminster Road/Brindley Close,53.348001821,-1.468589860
 Manor Top Interchange/Hurlfield Road E1,53.359842273,-1.428218551
 Manor Top Interchange/Hurlfield Road E2,53.359599377,-1.428176724
+Longley Hall Road/Longley Hall Rise,53.414767612,-1.458084316
 Middlewood Road/Minto Road,53.405377298,-1.504276707
 Middlewood Road/Lennox Road,53.409124632,-1.504052647
 Attercliffe Road/Zion Lane,53.394366634,-1.431711132
@@ -1037,20 +1509,28 @@ Derbyshire Lane/Chesterfield Road,53.354156484,-1.480246928
 Derbyshire Lane/Cliffefield Road,53.353479813,-1.479669238
 Norton Lees Road/Derbyshire Lane,53.351854518,-1.477991424
 Norton Lees Road/Cockayne Place,53.351861009,-1.477420471
+Charnock Hall Road/White Lane,53.343622030,-1.423538910
+Charnock Hall Road/Charnock Drive,53.343235755,-1.423589177
 Walkley Lane/Bowness Road,53.399501701,-1.500675265
 Walkley Lane/Speeton Road,53.399186611,-1.500558634
 Gleadless Road/Daresbury Road,53.356937195,-1.452792903
+Longley Hall Road/Longley Avenue,53.412786939,-1.461359083
 Stannington Road/Low Road,53.396766924,-1.515415178
 Rockingham Street/Portobello Road,53.381995984,-1.476465449
+Dobcroft Road/Abbeyale Road South,53.341536123,-1.503439994
+Dobcroft Road/Abbeydale Road South,53.341562401,-1.503274476
 Castle Street/CG22,53.384325617,-1.464649907
 Mansfield Road/Applegarth Drive,53.359579375,-1.424014864
 Nursery Street/Johnson Street,53.387917624,-1.465882898
 London Road/John Street,53.369423968,-1.477190634
+Firth Park Avenue/Hinde House Lane,53.414511927,-1.443523937
+Wincobank Avenue/Wincobank Close,53.417895896,-1.436754097
 Pitsmoor Road/Minna Road,53.397666584,-1.467054259
 Carlisle Street East/Upwell Street,53.405219293,-1.434304192
 Carlisle Street East/Upwell Street,53.405360894,-1.433836017
 Addy Street/Albion Street,53.387805567,-1.489595493
 Lambert Street/Scotland Street,53.385367673,-1.472590240
+Sicey Avenue/Fairthorne Road,53.420886483,-1.447744284
 Arbourthorne Road/Eastern Avenue,53.360303892,-1.444124887
 Pitsmoor Road/Rutland Road,53.397945553,-1.467125971
 Manor Oaks Road/Blagden Street,53.379038363,-1.454298627
@@ -1058,6 +1538,7 @@ Eastern Avenue/Edenhall Road,53.361851085,-1.432894976
 Eastern Avenue/Dagnam Road,53.361435021,-1.436146195
 Corby Street/Princess Street,53.393994414,-1.444302762
 Leopold Street/City Hall CH2,53.381188038,-1.470582299
+Herries Road/Wordsworth Avenue,53.414324395,-1.488029473
 Chesterfield Road/Beeton Road,53.355647429,-1.477915055
 Attercliffe Road/Shortridge Street,53.392605399,-1.433719512
 Staniforth Road/Attercliffe Road,53.391842976,-1.434060443
@@ -1086,11 +1567,15 @@ Prince of Wales Road/Harborough Avenue,53.368597727,-1.418993856
 Prince of Wales Road/City Road,53.361667591,-1.428344392
 Middlewood Road/Leader Road,53.406518676,-1.504233362
 Middlewood Road/Catch Bar Lane,53.411445399,-1.504461940
+Herries Road/Galsworthy Road,53.413485618,-1.483195153
+Herries Road/Parkwood Road North,53.411721193,-1.478447562
+Longley Avenue West/Teynham Road,53.411837332,-1.482417786
 Longley Avenue West/Crumpsall Avenue,53.410075542,-1.476226204
 Langsett Road/Langsett Rise,53.396471680,-1.489837752
 Arbourthorne Road/East Bank Road,53.357400024,-1.442089213
 Chesterfield Road/Millmount Road,53.354366350,-1.480965522
 Lyons Street/Petre Street,53.397576479,-1.453084070
+Raeburn Road/Morland Road,53.345268453,-1.437035340
 Brightside Lane/Hawke Street,53.406097707,-1.426245012
 Gleadless Road/Daresbury Road,53.357096158,-1.452174849
 Catch Bar Lane/Leppings Lane,53.410844803,-1.502693755
@@ -1105,59 +1590,77 @@ Paternoster Row/SS2,53.377766929,-1.465333408
 Greenwood Avenue/Greenwood Close,53.378214878,-1.420681932
 Upper Albert Road/Lees Hall Avenue,53.351880126,-1.467505064
 Savile Street/Spital Hill,53.388794986,-1.459105725
+Bocking Lane/Greenhill Avenue,53.333800445,-1.489384134
+Herries Drive/Piper Road,53.414681749,-1.464961028
 Montgomery Road/Moncrieffe Road,53.361501450,-1.486754175
 Cemetery Road/Boston Street,53.371717873,-1.479657535
 Cemetery Road/Cliff Street,53.371440286,-1.479901394
+Woodseats Road/Firbeck Road,53.347062806,-1.481955463
 City Road/Fitzwalter Road,53.375773359,-1.449921108
+Charnock Hall Road/Olive Crescent,53.340572057,-1.424826605
 Wicker/Blonk Street,53.386395681,-1.463240717
-Knowle Lane/Haugh Lane,53.354355996,-1.521530022
 Mappin Street/Portobello Lane,53.380676509,-1.478947057
 Howard Road/Duncombe Street,53.390727917,-1.498326921
 Upwell Street/Holywell Road,53.405956603,-1.432459284
 Upwell Street/Carlisle Street East,53.405838328,-1.432160017
 Hollinsend Road/Alnwick Road,53.352795732,-1.417195535
-Broughton Lane/Sheffield Arena,53.400253040,-1.416547562
-Broughton Lane/Valley Centertainment,53.400277359,-1.416005787
 Eastern Avenue/City Road,53.361902302,-1.432323287
-Goore Road/Mather Road,53.378118884,-1.415737619
 Broomspring Lane/Brunswick Street,53.378081911,-1.485893527
+Fleury Road/Fleury Rise,53.349252617,-1.439401434
 Denmark Road/Jefferey Street,53.359275420,-1.460951918
 Denmark Road/Penns Road,53.358832486,-1.460401563
 Rushdale Road/Kent Road,53.355618361,-1.467263178
-Fulwood Road/Riverdale Road,53.372017632,-1.519002574
+Ecclesfield Road/(Railway Footbridge),53.428329942,-1.423191673
+Firth Park Avenue/Hinde House Lane,53.414592749,-1.443507838
+Fox Hill Crescent/Fox Hill Avenue,53.428218971,-1.502491104
 Stafford Road/Fitzwalter Road,53.375793468,-1.452340908
+Tesco/Abbeydale Road,53.347885914,-1.491514234
 Skye Edge Avenue/Plover Court,53.376005545,-1.443770235
 Skye Edge Avenue/Partridge View,53.375951896,-1.443831060
 Granville Road/Ingram Road,53.373504210,-1.447109544
 Manor Park Crescent/Manor Park Drive,53.371532625,-1.433036990
 Margate Drive/Whiteways Drive,53.404351542,-1.444769535
+Follett Road,53.427155443,-1.452493976
+Follett Road,53.427029816,-1.452540738
+Emerson Crescent,53.422637867,-1.465222347
 Valley Road/Cross Park Road,53.356488721,-1.472991732
+Gleadless Road/Littlewood Road,53.346682775,-1.430106970
 Abney Road/Callow Road,53.356133957,-1.456018429
+Hinde House Lane/Hindewood Close,53.413376691,-1.442952007
 Harold Street/Daniel Hill Street,53.391776810,-1.491292305
 Sherde Road/Daniel Hill Street,53.392101676,-1.489483977
 Whitehouse Lane/Hawksworth Road,53.394937875,-1.492713331
+Jenkin Avenue/Jenkin Road,53.415780935,-1.424881013
 Loxley Road/Wisewood Lane,53.401292273,-1.516416617
+Jenkin Avenue/Jenkin Drive,53.413127574,-1.428271738
 Carrfield Road/Carrfield Drive,53.357646190,-1.464443247
-Darwin Lane,53.374428909,-1.521816262
+Margetson Crescent/Margetson Road,53.431515466,-1.478747232
+Ridgeway Road/Gleadless Road,53.345775107,-1.426393890
+Winn Gardens,53.418485620,-1.511527194
 Fairfax Road/Prince of Wales Road,53.366653509,-1.418449224
 Fairfax Road/Harborough Avenue,53.366839917,-1.417965781
+Hollythorpe Rise/Thorpe House Avenue,53.349577661,-1.467203254
 Nile Street/Peel Street,53.377422453,-1.499941320
 Bernard Street/Blackwell Place,53.382837137,-1.455512927
+Colley Road/Wordsworth Avenue,53.431005178,-1.475111160
 Holywell Road/Colliery Road,53.409914648,-1.427442281
 Eastern Avenue/Northern Avenue,53.361302043,-1.436538634
+Lindsay Avenue/Ingelow Avenue,53.425694504,-1.461331460
 Heavygate Road/Highton Street,53.392739547,-1.504348296
 Woodhouse Road/Kilvington Road,53.359513624,-1.417870233
 Heavygate Road/Highton Street,53.392865445,-1.504361872
 Holywell Road/Colliery Road,53.410079143,-1.426131287
 Springfield Road/Springfield Glen,53.351554669,-1.506838982
+Penrith Road/Herries Road,53.413734407,-1.484606347
 Hurlfield Road/Ashleigh Drive,53.355077536,-1.435629100
 Psalter Lane/Southcroft,53.366296381,-1.491881257
+Fox Hill Road/Wilcox Road,53.428474787,-1.499177126
+Bellhouse Road/Bevercotes Road,53.419512211,-1.446016649
+Kilner Way/Kilner Way Retail Park,53.417260523,-1.495742922
 Abbeydale Road/St Ronans Road,53.362130187,-1.478346761
+Hastings Road/Abbeydale Grange School,53.347656388,-1.496744443
 Broad Lane/Bailey Street,53.383247999,-1.475006832
-Hollins Lane/Rivelin Park Crescent,53.392858843,-1.520361732
-Hollins Lane/Hollins Drive,53.392705922,-1.520333375
-Rivelin Park Road/Rivelin Park Crescent,53.394161201,-1.517880891
-Rivelin Park Road/Low Road,53.394151181,-1.517625361
+Valentine Crescent/Valentine Road,53.426485124,-1.453330296
 Cricket Inn Road/Cricket Inn Crescent,53.383318477,-1.442938305
 Cricket Inn Road/Aston Street,53.383867291,-1.446915226
 Cricket Inn Road/Derwent Street,53.383961138,-1.447770965
@@ -1169,15 +1672,22 @@ Herries Road/Fir Vale Road,53.407321839,-1.455411076
 Herries Road/Fir Vale Road,53.407599150,-1.457092311
 Herries Road/Norwood Road,53.408415173,-1.460632053
 Leadmill Street/Mortimer Street,53.375459517,-1.465933482
+Cowper Avenue/Owen Place,53.432199308,-1.495671570
 Hurlfield Road/Ashleigh Drive,53.355122974,-1.435733669
+Cowper Avenue/Cowper Drive,53.430983688,-1.493037002
 Herries Road/Herries Road Drive,53.408603652,-1.460569498
 Pond Hill/Pond Street,53.381240241,-1.464147388
 Pond Hill/Pond Street,53.381211995,-1.463862110
 Pond Hill/Pond Street,53.381183816,-1.463591864
 Whitehouse Lane/Exley Avenue,53.394516741,-1.490913777
 Fir View Gardens/Osgathorpe Drive,53.402912200,-1.452308755
+Oaks Fold/Mason Lathe Road,53.429043853,-1.441016517
+Oaks Fold/Mason Lathe Road,53.429088442,-1.440940681
+Deerlands Avenue/Barnsley Road,53.427947337,-1.458609078
 Boundary Road/Southend Road,53.374378188,-1.439838293
+Emerson Crescent,53.422556435,-1.465102985
 Pond Hill/Pond Street,53.381202467,-1.463741963
+Tipton Street/Castledine Gardens,53.414117989,-1.423007774
 West Bar/Workhouse Lane,53.385312257,-1.468200775
 Staniforth Road/Balfour Road,53.387707802,-1.419004449
 Snig Hill/Bank Street,53.384792758,-1.466598545
@@ -1188,20 +1698,34 @@ Montgomery Terrace Road/Malinda Street,53.389577100,-1.481424664
 Sheaf Street/Harmer Lane,53.377621031,-1.464869241
 Pond Street/Paternoster Row,53.378105788,-1.464727877
 Matilda Street/Arundel Street,53.375917216,-1.469805874
+Cowper Avenue/Cowper Drive,53.431146240,-1.493215680
+Cowper Avenue/Owen Walk,53.432597389,-1.496283969
 Stevenson Road/St Charles Street,53.392126118,-1.438823477
 Stevenson Road/Bessemer Place,53.391613653,-1.438800140
 Stevenson Road/Stevenson Way,53.394352773,-1.438282910
 Stevenson Road/Oakes Green,53.394037835,-1.438211865
 Stevenson Road/Woodbine Road,53.398110584,-1.436488890
 Stevenson Road/Woodbine Road,53.397876538,-1.436416785
+Cowper Avenue/Grimsell Crescent,53.431872047,-1.494802475
 Northern Avenue/Eastern Avenue,53.360589644,-1.437960479
+Sicey Avenue/Shirehall Crescent,53.431420360,-1.443694539
+Sicey Avenue/Nether Shire Lane,53.431365731,-1.443544742
+Sicey Avenue/Hesley Terrace,53.432571185,-1.443754776
+Sicey Avenue/Ivy Hall Road,53.433145862,-1.443626863
+Sicey Avenue/Shirehall Road,53.428161902,-1.446581493
+Sicey Avenue/Sicey Lane,53.428930832,-1.445698601
+Sicey Avenue/Fircroft Avenue,53.429519645,-1.444742771
 Carlisle Street East/Atlas Street,53.395829392,-1.448459568
+Boynton Road/Boynton Crescent,53.411886130,-1.470983659
+Boynton Road/Boynton Crescent,53.412270022,-1.470392172
+Barnsley Road/Kinnaird Avenue,53.425990363,-1.457189215
 Endcliffe Vale Road/Woodvale Road,53.372299878,-1.511033419
 Endcliffe Vale Road/Endcliffe Hall Avenue,53.372029430,-1.510841124
 Endcliffe Vale Road/Endcliffe Rise Road,53.371102153,-1.503953095
 Endcliffe Vale Road/Oakholme Road,53.371253205,-1.503530507
 Endcliffe Vale Road/The Glade,53.370958571,-1.508358458
 Endcliffe Vale Road/The Glen,53.370924666,-1.506675526
+Cloonmore Drive/Henley Avenue,53.334141607,-1.458685812
 Fitzwilliam Street/Wellington Street,53.378023477,-1.478633685
 Raynald Road/Stonecliffe Road,53.371964854,-1.427545272
 Queen Mary Road/Raynald Road,53.367512434,-1.425050084
@@ -1215,19 +1739,30 @@ Wulfric Road/Bassledene Road,53.365962638,-1.428016423
 Wulfric Road/Fairleigh,53.365517401,-1.428893997
 Wulfric Road/Scotia Close,53.365498402,-1.430562338
 Wulfric Road/Babington Close,53.365375575,-1.431195142
+Colley Road/Milnrow Crescent,53.430572293,-1.474785375
+Wilcox Road/Fox Hill Road,53.428148500,-1.498533815
 Northern General Hospital/Sorby Wing,53.409883790,-1.459410009
+Margetson Road/Wordsworth Avenue,53.431018754,-1.478211474
 Longley Avenue West/Musgrave Drive,53.409285087,-1.470233668
 Longley Avenue West/Fairbank Road,53.409575285,-1.468785906
 Norwood Avenue/Fairbank Road,53.409990025,-1.467050743
 Norwood Avenue/Edensor Road,53.410811157,-1.465746722
+Middlewood Road/Park& Ride,53.415699761,-1.509482829
 Longley Avenue West/Shirecliffe Road,53.409272241,-1.471392155
 Pitsmoor Road/Swinton Street,53.390071757,-1.469209072
-Loxley Park Access Road/Loxley Road,53.401360153,-1.519875136
 Cutlers Gate/Wicker,53.388301851,-1.463367110
 Cutlers Gate/Wicker,53.388193047,-1.463157976
 Cutlers Gate/Wicker,53.388120398,-1.462993497
+Gleadless Road/Hollinsend Road,53.346617706,-1.429657202
+Hucklow Road/West Quadrant,53.417033433,-1.448411065
 Arundel Gate/AG12,53.382344409,-1.465832342
 Norfolk Street/Surrey Street,53.381075536,-1.467516907
+Hucklow Road/West Quadrant,53.416970932,-1.448502149
+Jenkin Road/Tyler Street,53.413008166,-1.422135159
+Jenkin Road/Tyler Street,53.412883570,-1.422392604
+Middlewood/Middlewood Road,53.415672673,-1.509453049
+Jenkin Road/Stupton Road,53.413354729,-1.423168547
+Jenkin Road/Stupton Road,53.413652788,-1.423465411
 Gibraltar Street/Lambert Street,53.386305385,-1.471210462
 Heavygate Road/Highton Street,53.392864384,-1.504106248
 Heavygate Road/Highton Street,53.392288950,-1.504067821
@@ -1237,18 +1772,24 @@ Nursery Street/Spitalfields,53.388352147,-1.466569110
 Eyre Street/Moorhead ES2,53.376095187,-1.471427068
 Eyre Street/Moor Market ES3,53.375397430,-1.472187266
 Heavygate Road/Camm Street,53.393528826,-1.503933115
+Hastings Road/Abbeydale Road,53.347691961,-1.496653895
 Langsett Crescent/Greaves Street,53.398422552,-1.492025218
-Rural Lane/Ben Lane,53.408580543,-1.520500899
-Rural Lane/Ben Lane,53.408716151,-1.520694934
+Hastings Road/Abbeydale Road,53.347520930,-1.496595823
+Charnock Hall Road/Parkstone Delph,53.340456223,-1.425038429
 Ellesmere Road/Clun Road,53.393675546,-1.457058900
+Northern General Hospital/Fox Way,53.411790999,-1.455805342
+Herries Road South/Rawson Spring Road,53.411736277,-1.496635652
+Herries Road South/Rawson Spring Road,53.411792043,-1.497071272
+Herries Road South/Rawson Spring Road,53.411665892,-1.496997539
 Commonside/Spring Hill Road,53.385977582,-1.497300219
 Commonside/Hands Road,53.385996001,-1.497405247
 School Road/Glebe Road,53.383750420,-1.502077243
+Herries Road South/Herries Road,53.411915724,-1.496558314
 St Aidans Road/Guildford Avenue,53.368727572,-1.444391011
 St Aidans Road/Park Grange Road,53.367745989,-1.442074345
+Millhouses Lane/Kingsley Park Avenue,53.348085186,-1.506879001
+Millhouses Lane/Whirlowdale Crescent,53.348031628,-1.506969748
 St Aidans Road/Holdings Road,53.371256045,-1.444959318
-Knowle Lane/Hoober Avenue,53.354510662,-1.521994031
-Loxley Park/Loxley Road,53.400982405,-1.519819225
 Sharrow Vale Road/Hickmott Road,53.367637193,-1.496479066
 Pond Hill/Pond Street,53.381312484,-1.464221648
 Blast Lane/Derek Dooley Way,53.385209237,-1.457286845
@@ -1256,9 +1797,14 @@ Arundel Gate/Charles Street,53.378688090,-1.468313329
 Arundel Gate/Charles Street,53.378670515,-1.468403743
 Spital Street/Verdon Street,53.390385013,-1.462874790
 Spital Street/Verdon Street,53.390456716,-1.462828778
+Hollythorpe Rise/Thorpe House Avenue,53.349595638,-1.467203030
 Arundel Gate/Charles Street CS3,53.378545282,-1.468540593
 Snig Hill/Bridge Street,53.385000627,-1.466851537
 Loxley New Road/Holme Way,53.400698677,-1.509715435
+Longley Lane/Piper Road,53.413389767,-1.463487813
+Longley Lane/Piper Road,53.413892360,-1.463315998
+Longley Lane/Barnsley Road,53.416435596,-1.459206598
+Longley Lane/Longley Hall Road,53.416256651,-1.459389415
 Fitzwalter Road/Stafford Road,53.375740986,-1.452657240
 Sharrow Lane/Cemetery Road,53.367036317,-1.488340804
 Woodhead Road/Kearsley Road,53.367940142,-1.474984553
@@ -1266,19 +1812,32 @@ Albert Terrace Road/Infirmary Road,53.391533472,-1.482769260
 Arundel Gate/Arundel Gate Ag13,53.379945368,-1.466042745
 Walkley Bank Road/Racker Way,53.397559068,-1.509089784
 Walkley Bank Road/Fern Road,53.397085656,-1.509817095
-Forge Valley School Access/Wood Lane,53.397349341,-1.519408931
+Lees Hall Road/Warminster Crescent,53.346527001,-1.464417300
+Lees Hall Road/Harvey Clough Road,53.346167269,-1.464376743
+Eastwood/Eastgate,53.417105627,-1.514777878
+Eastwood/Middlewood Drive,53.417159006,-1.514641857
+Marlcliffe Road/Vainor Road,53.412219118,-1.511177719
+Marlcliffe Road/Wadsley Road,53.412164204,-1.510937641
 Herries Road Drive/Service Road,53.410159971,-1.458864942
 Herries Road Drive/Service Road,53.410096440,-1.458730357
 Barnsley Road Entrance/Service Road,53.409318915,-1.453790999
+Vickers Corridor/Service Road,53.412673959,-1.456260453
+Fox Way/South Lane,53.412717226,-1.457869656
 Herries Road Drive/Herries Road,53.409223427,-1.460471402
 Rutland Road/Rutland Street,53.394622821,-1.473904498
 Rutland Road/Oakham Drive,53.394892466,-1.473901174
 Herries Road/Norwood Road,53.408603652,-1.460569498
 Herries Road/Fir Vale Road,53.407541391,-1.456250660
 Fairleigh/Cullabine Road,53.364429392,-1.426939946
+Langsett Avenue/Don Avenue,53.415893863,-1.512986202
 Ecclesall Road South/Knowle Lane,53.354416585,-1.514272822
 Millhouses Lane/Silver Hill Road,53.353126854,-1.513205792
+Silverdale Road/Silverdale Glade,53.350756389,-1.513833686
+Silverdale Road/Derriman Grove,53.348803233,-1.513194932
+Silverdale Road/Derriman Drive,53.347253505,-1.512296275
 Button Hill/Woodholm Road,53.352571959,-1.507217850
+Chaucer Road/Halifax Road,53.427727634,-1.490411925
+Chaucer Road/Chaucer Close,53.427817772,-1.490471047
 Worksop Road/Britnall Street,53.394643282,-1.427526863
 Worksop Road/Leeds Road,53.394459914,-1.426777422
 Darnall Road/Allende Way,53.393019879,-1.422661447
@@ -1287,23 +1846,26 @@ Shirland Lane/Shortridge Street,53.392721624,-1.429808247
 Bernard Road/Park and Ride,53.385553582,-1.446141639
 Woodburn Road/Worthing Road,53.388943226,-1.434820617
 Woodburn Road/Stadium Way,53.388690704,-1.434643529
+Elm Lane/Barnsley Road,53.421886171,-1.456007556
 Broad Lane/Rockingham Street,53.382970398,-1.477295402
 Pond Hill/Pond Street,53.381239567,-1.463997063
 Kilvington Road/Ulley Road,53.359980284,-1.419561801
 Kilvington Road/Woodhouse Road,53.359952151,-1.419321769
+Longley Lane/Herries Drive,53.415045198,-1.461827057
+Longley Lane/Longley Farm View,53.414937544,-1.461873551
 St James Row/Church Street,53.382632071,-1.469872840
 Sharrow Lane/Grange Crescent,53.367152263,-1.488129019
 Fitzwalter Road/Glencoe Road,53.375813442,-1.452776563
-Meadowhall Drive/Meadowhall Way,53.409976381,-1.416053530
-Meadowhall Drive/Weedon Street,53.409671154,-1.416132925
+Blackstock Road/Backmoor Road,53.339588843,-1.450822172
 Attercliffe Common/Clay Street,53.397628417,-1.427712407
 Durham Road/Clarkson Street,53.380259689,-1.488573244
 Dunlop Street/Yarmouth Street,53.406861852,-1.416983664
 Dunlop Street/Carbrook Street,53.406798495,-1.416894276
+Hucklow Road/Stubbin Lane,53.418138276,-1.448246311
 Durham Road/Glossop Road,53.380258852,-1.488377826
+Kilner Way/Kilner Way Retail Park,53.417683222,-1.495798109
 Millsands/Plum Lane,53.387167116,-1.466899660
 Millsands/Bridge Street,53.385958670,-1.466012650
-Hallowmoor Road/Cox Place,53.406035183,-1.520108328
 Eastern Avenue/Algar Road,53.361174347,-1.439966311
 Eastern Avenue/Northern Avenue,53.361263524,-1.439814879
 Eastern Avenue/Elgar Drive,53.361004901,-1.444100742
@@ -1314,10 +1876,11 @@ Eastern Avenue/Algar Road,53.361205536,-1.440867480
 Eastern Avenue/Errington Road,53.361165570,-1.440011505
 Millsands/Bridge Street,53.387121907,-1.466840083
 Millsands/Bridge Street,53.385958670,-1.466012650
+Norton Lees Lane/Derbyshire Lane,53.348484225,-1.476049697
 Langsett Road/Ripley Street,53.400989934,-1.497604677
-Hallowmoor Road/Cox Place,53.405584503,-1.519797518
 Psalter Lane/Sharrow Vale Road,53.366828824,-1.490266904
 Pond Street/FS5,53.380083662,-1.464808317
+Fox Hill Crescent/Fox Hill Road,53.424880156,-1.501521801
 Whitehouse Road/Whitehouse Lane,53.394387745,-1.494404118
 Whitehouse Road/Industry Street,53.394296972,-1.494194663
 Burgoyne Road/Tennyson Road,53.393446342,-1.492851358
@@ -1325,6 +1888,7 @@ Rockingham Street/Division Street,53.378915419,-1.474999964
 Fox Road/Fox Walk,53.393342178,-1.489499216
 Fox Road/Somerville Terrace,53.393342756,-1.489634547
 Rockingham Street/Division Street,53.379410629,-1.475189301
+Springfield Road/Springfield Close,53.350585028,-1.502779066
 Fox Road/Whitehouse Lane,53.393441048,-1.489498034
 Fox Road/Somerville Terrace,53.393198816,-1.489606193
 Burgoyne Road/Tennyson Road,53.393428493,-1.492881645
@@ -1340,6 +1904,8 @@ Carver Street/Ca4,53.379402955,-1.473445605
 Carver Street/Ca5,53.379078717,-1.473299277
 Furnival Gate/Union Street,53.377892562,-1.471344694
 Furnival Gate/Union Street,53.377683038,-1.470715941
+Tyler Street/Roman Ridge Road,53.415859868,-1.417056254
+Tyler Street/Jenkin Road,53.415894279,-1.416739826
 Pitsmoor Road/Swinton Street,53.390511977,-1.469158489
 Rockingham Street/RS1,53.379410101,-1.475069046
 Rockingham Street/RS2,53.379175879,-1.474951664
@@ -1353,16 +1919,28 @@ Surrey Street/Barkers Pool,53.380727506,-1.470106948
 Pinfold Street/Holly Street,53.382364154,-1.472296596
 Pond Hill/Pond Street,53.381376008,-1.464356152
 Leopold Street/Orchard Lane,53.381315404,-1.470926487
+Dobcroft Road/Abbeydale Road South,53.341563025,-1.503424662
 Springfield Road/Abbeydale Road South,53.373545895,-1.497221072
+Springfield Road/Hastings Road,53.348037657,-1.499774323
 Woodholm Road/Mylnhurst Road,53.353185242,-1.509899974
 Woodholm Road/Millhouses Lane,53.354111337,-1.512157942
+Dobcroft Road/Whirlowdale Road,53.344220711,-1.507043728
 Springfield Road/Springfield Glen,53.351572708,-1.506853797
 Burton Road/Percy Street,53.392232688,-1.476144424
 Burton Road/Ball Street,53.391874950,-1.474509773
 Harvest Lane/Mowbray Street,53.390847814,-1.471921067
+Barber Wood Road/Thundercliffe Road,53.432110156,-1.418655226
+Thundercliffe Road/Baring Road,53.431493931,-1.419476390
+Blackburn Road/New Road,53.426430413,-1.417032112
+Blackburn Road/Old Droppingwell Road,53.426746830,-1.417404021
+Blackburn Road/New Droppingwell Road,53.427584919,-1.417844058
+Blackburn Road/New Droppingwell Road,53.428323038,-1.418059727
+Baring Road/Barber Wood Road,53.431389355,-1.418303833
+Thundercliffe Road/Barberwood Road,53.432836054,-1.421911514
 Sheffield Interchange,53.380386498,-1.464188167
 Hillsborough Interchange,53.401812662,-1.498738073
 Arundel Gate Mini Interchange,53.381456527,-1.466279418
+Northern General Hospital/Clock Tower,53.411799644,-1.455730011
 Sheffield Arena/Don Valley Stadium,53.397794347,-1.421107976
 Sheffield Arena/Don Valley Stadium,53.397848640,-1.421182436
 Attercliffe,53.392281063,-1.429784058
@@ -1401,6 +1979,7 @@ Hillsborough Park,53.404386222,-1.503716646
 Hillsborough Park,53.404412187,-1.503475681
 Leppings Lane,53.410807237,-1.504469353
 Leppings Lane,53.409681464,-1.503940870
+Middlewood/Park and Ride,53.416117105,-1.510425901
 Malin Bridge,53.400664727,-1.508016288
 Sheffield Station/Sheff Hallam University,53.377829248,-1.461198793
 Sheffield Station/Sheff Hallam University,53.377847970,-1.461363910
@@ -1416,6 +1995,13 @@ Manor Top/Elm Tree,53.359647625,-1.428867263
 Manor Top/Elm Tree,53.359645037,-1.428326371
 Hollinsend,53.352031558,-1.424582286
 Hollinsend,53.352057799,-1.424431702
+Gleadless Townend,53.345837880,-1.426363006
+Gleadless Townend,53.345828026,-1.426182888
+Herdings/Leighton Road,53.342581327,-1.431453331
+Herdings/Leighton Road,53.342527470,-1.431469066
+Herdings Park,53.342490875,-1.438934352
+White Lane,53.342973355,-1.419522322
+White Lane,53.343036272,-1.419521468
 Nunnery Square/Park and Ride,53.385430199,-1.440881052
 Nunnery Square/Park and Ride,53.385555963,-1.440864370
 Park Grange Croft,53.370375196,-1.458677678
