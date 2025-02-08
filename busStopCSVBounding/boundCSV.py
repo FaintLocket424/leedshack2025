@@ -1,12 +1,23 @@
 import csv
 
-# Used for leedsStops.csv
-# topright = [53.836971, -1.428635]
-# bottomleft = [53.766816, -1.649048]
+# Used for creating map bounding boxes - https://mapscaping.com/bounding-box-calculator/
 
-topright = [53.838996, -1.472580]
-bottomleft = [53.756262, -1.620895]
-new_file_name = "leedsStops.csv"
+# Used for leedsStops.csv
+# topright = [53.838996, -1.472580]
+# bottomleft = [53.756262, -1.620895]
+
+# Used for manchesterStops.csv
+# topright = [53.543245, -2.114319]
+# bottomleft = [53.402655, -2.372498]
+
+# Used for sheffieldStops.csv
+# topright = [53.411496, -1.415726]
+# bottomleft = [53.351494, -1.522499]
+
+
+topright = [53.411496, -1.415726]
+bottomleft = [53.351494, -1.522499]
+new_file_name = "sheffieldStops.csv"
 
 
 with open("Stops.csv", 'r', newline='', encoding='utf-8') as infile, \
