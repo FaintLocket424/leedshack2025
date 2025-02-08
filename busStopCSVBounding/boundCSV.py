@@ -1,10 +1,16 @@
 import csv
 
+# Used for leedsStops.csv
+# topright = [53.836971, -1.428635]
+# bottomleft = [53.766816, -1.649048]
+
 topright = [53.836971, -1.428635]
 bottomleft = [53.766816, -1.649048]
+new_file_name = "leedsStops.csv"
+
 
 with open("Stops.csv", 'r', newline='', encoding='utf-8') as infile, \
-    open("leedsStops.csv", 'w', newline='', encoding='utf-8') as outfile:
+    open(new_file_name, 'w', newline='', encoding='utf-8') as outfile:
 
     reader = csv.reader(infile)
     writer = csv.writer(outfile)
