@@ -1,0 +1,4 @@
+name: busPosVizPlugin
+version: '1.0-SNAPSHOT'
+main: org.example.leedshack.busPosVizPlugin.BusPosVizPlugin
+api-version: '1.21'
