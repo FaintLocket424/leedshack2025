@@ -19,7 +19,7 @@ public class GTFSReal {
         );
         FeedMessage feed = FeedMessage.parseFrom(url.openStream());
 
-        ArrayList<Bus> buses = new ArrayList<Bus>();
+        ArrayList<Bus> buses = new ArrayList<>();
 
         for (FeedEntity entity : feed.getEntityList()) {
             GlobalLocation tempLocation = new GlobalLocation(entity.getVehicle().getPosition().getLongitude(), entity.getVehicle().getPosition().getLatitude(), entity.getVehicle().getPosition().getBearing());
