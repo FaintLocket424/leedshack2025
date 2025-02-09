@@ -1,11 +1,14 @@
-package org.example;
+package org.example.leedshack.busPosVizPlugin;
 
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvValidationException;
 
 import java.io.IOException;
 import java.io.Reader;
+import java.net.URISyntaxException;
 import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -34,7 +37,16 @@ public class Placeholder {
         int common_name_index = 4;
         int bus_stop_type_index = 32;
 
-        try (Reader reader = Files.newBufferedReader(filePath)) {
+        Path path;
+        try {
+            path = Paths.get(
+                ClassLoader.getSystemResource("D:\\Programming\\Hackathons\\leedshack2025\\busPosVizPlugin\\Stops.csv").toURI()
+            );
+        } catch (URISyntaxException e) {
+            throw new RuntimeException(e);
+        }
+
+        try (Reader reader = Files.newBufferedReader(path)) {
             try (CSVReader csvReader = new CSVReader(reader)) {
                 String[] line;
                 while ((line = csvReader.readNext()) != null) {
@@ -46,6 +58,10 @@ public class Placeholder {
             } catch (IOException | CsvValidationException e) {
                 throw new RuntimeException(e);
             }
+        } catch (IOException e) {
+            throw new RuntimeException(e);
         }
+
+        return stops;
     }
 }

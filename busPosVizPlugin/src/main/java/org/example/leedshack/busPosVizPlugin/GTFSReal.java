@@ -6,8 +6,6 @@ import java.util.ArrayList;
 
 import com.google.transit.realtime.GtfsRealtime.FeedEntity;
 import com.google.transit.realtime.GtfsRealtime.FeedMessage;
-import org.example.Bus;
-import org.example.GlobalLocation;
 
 public class GTFSReal {
     public static ArrayList<Bus> regionBuses(GlobalLocation southWest, GlobalLocation northEast) throws IOException {
