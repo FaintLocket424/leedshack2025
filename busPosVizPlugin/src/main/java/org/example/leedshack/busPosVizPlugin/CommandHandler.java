@@ -71,7 +71,7 @@ public class CommandHandler {
                                                             var centre = new GlobalLocation(
                                                                 longitude, latitude, 0.0);
 
-                                                            handleCommand(
+                                                            handleStart(
                                                                 centre,
                                                                 zoom,
                                                                 ctx.getSource().getLocation()
@@ -138,7 +138,23 @@ public class CommandHandler {
                         )
                         .then(
                             Commands.literal("end")
-                                .executes(CommandHandler::handleEnd)
+                                .executes(ctx -> {
+                                    CommandSender sender = ctx.getSource().getSender();
+
+                                    World world = ctx.getSource().getLocation().getWorld();
+
+                                    return handleEnd(world, sender);
+                                })
+                        )
+                        .then(
+                            Commands.literal("clear")
+                                .executes(ctx -> {
+                                    CommandSender sender = ctx.getSource().getSender();
+
+                                    World world = ctx.getSource().getLocation().getWorld();
+
+                                    return handleEnd(world, sender);
+                                })
                         )
                         .then(
                             Commands.literal("view")
@@ -160,7 +176,7 @@ public class CommandHandler {
         CommandSender sender = ctx.getSource()
             .getSender();
 
-        handleCommand(
+        handleStart(
             new GlobalLocation(longitude,
                 latitude, 0), zoom, world,
             sender);
@@ -176,12 +192,14 @@ public class CommandHandler {
         return Command.SINGLE_SUCCESS;
     }
 
-    private static void handleCommand(
+    private static void handleStart(
         GlobalLocation centre,
         double zoom,
         World world,
         CommandSender sender
     ) {
+        handleEnd(world, sender);
+
         BukkitScheduler scheduler = BusPosVizPlugin.instance.getServer().getScheduler();
 
         scheduler.runTaskAsynchronously(BusPosVizPlugin.instance, () -> {
@@ -192,6 +210,7 @@ public class CommandHandler {
             );
 
             scheduler.runTask(BusPosVizPlugin.instance, () -> {
+
                 sender.sendPlainMessage(
                     String.format("Found %d bus stops", busStops.size()));
 
@@ -251,6 +270,8 @@ public class CommandHandler {
                                     sheep.setPersistent(true);
                                     BusPosVizPlugin.SHEEPS.put(bus.id(), sheep);
                                     sheep.setColor(DyeColor.RED);
+                                    sheep.customName(Component.text(bus.id()));
+                                    sheep.setCustomNameVisible(true);
                                 }
                             }
 
@@ -261,107 +282,6 @@ public class CommandHandler {
                 }, 0L, Tick.tick().fromDuration(Duration.ofSeconds(5L)));
         });
     }
-
-//    private static int placeBusStops(CommandContext<CommandSourceStack> ctx) {
-//        double span = ctx.getArgument("span", double.class);
-//        double longitude = ctx.getArgument("longitude", double.class);
-//        double latitude = ctx.getArgument("latitude", double.class);
-//        var centre = new GlobalLocation(longitude, latitude, 0);
-//
-//        BusPosVizPlugin.instance.getServer().getScheduler()
-//            .runTaskAsynchronously(BusPosVizPlugin.instance, () -> {
-//                BoundingBox bb = Placeholder.getBoundingBox(centre, span);
-//
-//                List<BusStop> busStops = Placeholder.stopsWithinRegion(bb,
-//                    BusPosVizPlugin.STOPS_FILENAME);
-//
-//                BusPosVizPlugin.instance.getServer().getScheduler()
-//                    .runTask(BusPosVizPlugin.instance, () -> {
-//                        ctx.getSource().getSender()
-//                            .sendPlainMessage(String.format("Found %d bus stops", busStops.size()));
-//
-//                        for (BusStop busStop : busStops) {
-//                            var loc = busStop.globalLocation();
-//
-//                            World world = ctx.getSource().getSender().getServer().getWorlds()
-//                                .get(0);
-//
-//                            Location scaledLocation = worldToMC(span, loc, centre, world);
-//
-//                            ArmorStand as = (ArmorStand) world.spawnEntity(scaledLocation,
-//                                EntityType.ARMOR_STAND);
-//
-//                            as.customName(Component.text(busStop.name()));
-//                            as.setCustomNameVisible(true);
-//
-//                            ItemStack hat = new ItemStack(Material.DIAMOND_HELMET);
-//
-//                            as.getEquipment().setItem(EquipmentSlot.HEAD, hat);
-//                        }
-//                    });
-//            });
-//
-//        return Command.SINGLE_SUCCESS;
-//    }
-
-//    private static int spawnSheep(CommandContext<CommandSourceStack> ctx) {
-//        double span = ctx.getArgument("span", double.class);
-//        double longitude = ctx.getArgument("longitude", double.class);
-//        double latitude = ctx.getArgument("latitude", double.class);
-//        var centre = new GlobalLocation(longitude, latitude, 0);
-//        BoundingBox bb = Placeholder.getBoundingBox(centre, span);
-//
-//        if (BusPosVizPlugin.SHEEP_TASK != null) {
-//            BusPosVizPlugin.SHEEP_TASK.cancel();
-//        }
-//
-//        BusPosVizPlugin.SHEEP_TASK = BusPosVizPlugin.instance.getServer().getScheduler()
-//            .runTaskTimerAsynchronously(BusPosVizPlugin.instance, () -> {
-//                List<Bus> busList = GTFSReal.regionBuses(bb);
-//
-//                BusPosVizPlugin.instance.getServer().getScheduler()
-//                    .runTask(BusPosVizPlugin.instance, () -> {
-//                        CommandSender sender = ctx.getSource().getSender();
-//                        sender.sendPlainMessage(String.format("Found %d buses", busList.size()));
-//
-//                        World world = BusPosVizPlugin.instance.getServer().getWorlds().get(0);
-//                        for (Bus bus : busList) {
-//                            if (!BusPosVizPlugin.SHEEP_PREV_LOCATIONS.containsKey(bus.id())) {
-//                                BusPosVizPlugin.SHEEP_PREV_LOCATIONS.put(bus.id(),
-//                                    bus.globalLocation());
-//                                continue;
-//                            }
-//
-//                            if (!hasBusMoved(bus) && !BusPosVizPlugin.SHEEPS.containsKey(
-//                                bus.id())) {
-//                                // Bus has not moved and has not previously moved
-//                                continue;
-//                            }
-//
-//                            Location loc = worldToMC(span, bus.globalLocation(), centre, world);
-//
-//                            if (BusPosVizPlugin.SHEEPS.containsKey(bus.id())) {
-//                                // sheep already exists.
-//                                Sheep sheep = BusPosVizPlugin.SHEEPS.get(bus.id());
-//                                sheep.teleport(loc);
-//                            } else {
-//                                // sheep is new
-//                                Sheep sheep = (Sheep) world.spawnEntity(loc, EntityType.SHEEP);
-//                                sheep.setAI(false);
-//                                sheep.setPersistent(true);
-//                                BusPosVizPlugin.SHEEPS.put(bus.id(), sheep);
-//                                sheep.setColor(DyeColor.RED);
-//                            }
-//                        }
-//
-//                        sender.sendPlainMessage(
-//                            String.format("Mapped %d buses", BusPosVizPlugin.SHEEPS.size()));
-//                    });
-//
-//            }, 0L, Tick.tick().fromDuration(Duration.ofSeconds(10L)));
-//
-//        return Command.SINGLE_SUCCESS;
-//    }
 
     private static boolean hasBusMoved(Bus bus) {
         GlobalLocation currentLocation = bus.globalLocation();
@@ -396,11 +316,7 @@ public class CommandHandler {
         );
     }
 
-    private static int handleEnd(CommandContext<CommandSourceStack> ctx) {
-        CommandSender sender = ctx.getSource().getSender();
-
-        World world = ctx.getSource().getLocation().getWorld();
-
+    private static int handleEnd(World world, CommandSender sender) {
         sender.sendPlainMessage("Stopping buses.");
 
         if (BusPosVizPlugin.SHEEP_TASK != null) {

@@ -26,8 +26,7 @@ public final class BusPosVizPlugin extends JavaPlugin {
         CommandHandler.registerCommands();
 
         World world = this.getServer().getWorlds().getFirst();
-        Block block = world.getBlockAt(new Location(world, 0, -60, 0));
-        block.setType(Material.BLACK_CONCRETE);
+        world.getBlockAt(new Location(world, 0, -61, 0)).setType(Material.BLACK_CONCRETE);
     }
 
     @Override
