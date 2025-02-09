@@ -88,21 +88,11 @@ public class CommandHandler {
                                         .then(
                                             Commands.argument("zoom",
                                                     DoubleArgumentType.doubleArg())
-                                                .executes(ctx -> {
-                                                        double zoom = ctx.getArgument("zoom",
-                                                            double.class);
-
-                                                        World world = ctx.getSource().getLocation()
-                                                            .getWorld();
-                                                        CommandSender sender = ctx.getSource()
-                                                            .getSender();
-
-                                                        handleCommand(
-                                                            new GlobalLocation(53.80393562972413,
-                                                                -1.547507748221135, 0), zoom, world,
-                                                            sender);
-                                                        return Command.SINGLE_SUCCESS;
-                                                    }
+                                                .executes(ctx ->
+                                                    extracted(ctx,
+                                                        -1.547507748221135,
+                                                        53.80393562972413
+                                                    )
                                                 )
                                         )
                                 )
@@ -110,21 +100,39 @@ public class CommandHandler {
                                     Commands.literal("durham")
                                         .then(
                                             Commands.argument("zoom",
-                                                DoubleArgumentType.doubleArg())
+                                                    DoubleArgumentType.doubleArg())
+                                                .executes(ctx ->
+                                                    extracted(ctx,
+                                                        -1.5767460456129585,
+                                                        54.77326250731719
+                                                    )
+                                                )
                                         )
                                 )
                                 .then(
                                     Commands.literal("london")
                                         .then(
                                             Commands.argument("zoom",
-                                                DoubleArgumentType.doubleArg())
+                                                    DoubleArgumentType.doubleArg())
+                                                .executes(ctx ->
+                                                    extracted(ctx,
+                                                        -0.14231606305327568,
+                                                        51.50121012110383
+                                                    )
+                                                )
                                         )
                                 )
                                 .then(
                                     Commands.literal("portsmouth")
                                         .then(
                                             Commands.argument("zoom",
-                                                DoubleArgumentType.doubleArg())
+                                                    DoubleArgumentType.doubleArg())
+                                                .executes(ctx ->
+                                                    extracted(ctx,
+                                                        -1.1160587373098623,
+                                                        50.82206947539475
+                                                    )
+                                                )
                                         )
                                 )
                         )
@@ -140,6 +148,23 @@ public class CommandHandler {
 
                 commands.registrar().register(busCommand);
             });
+    }
+
+    private static int extracted(CommandContext<CommandSourceStack> ctx, double longitude,
+        double latitude) {
+        double zoom = ctx.getArgument("zoom",
+            double.class);
+
+        World world = ctx.getSource().getLocation()
+            .getWorld();
+        CommandSender sender = ctx.getSource()
+            .getSender();
+
+        handleCommand(
+            new GlobalLocation(longitude,
+                latitude, 0), zoom, world,
+            sender);
+        return Command.SINGLE_SUCCESS;
     }
 
     private static int viewArea(CommandContext<CommandSourceStack> ctx) {
