@@ -145,7 +145,7 @@ public class CommandHandler {
     private static int viewArea(CommandContext<CommandSourceStack> ctx) {
         if (ctx.getSource().getSender() instanceof Player player) {
             player.teleport(new Location(player.getWorld(), 0, 20, 0, 180, 90));
-            player.set_
+            player.setFlying(true);
         }
 
         return Command.SINGLE_SUCCESS;
